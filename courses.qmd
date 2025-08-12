@@ -61,7 +61,8 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 ## ✏️ Materiais/Listas
 
 ### Notas de aula
-- [Slides Aula 1](link)
+- [Revisão Cálculo](materiais/inferencia/revisao_calculo_inferencia.html)
+
 
 ### Listas de exercícios
 - [Lista 1](link)
@@ -131,7 +132,8 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 ## ✏️ Materiais/Listas
 
 ### Notas de aula
-- [Slides Aula 1](link)
+- [Revisão Cálculo](materiais/inferencia/revisao_calculo_inferencia.html)
+
 
 ### Listas de exercícios
 - [Lista 1](link)

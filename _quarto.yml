@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Pedro"
-  description: "Site Acadêmico"
+  description: "Site Acadêmico do Professor Pedro Almeida"
   site-url: "https://pedroallmeiida.github.io/meu_site"
   
   navbar:
@@ -19,8 +19,6 @@ website:
         file: projects.qmd
       - text: "Disciplinas"
         file: courses.qmd
-      - href: slides/
-        text: Slides
       - text: "CV"
         file: cv.qmd
       - text: "Contato"
