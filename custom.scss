@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+
+// Cores principais
+$primary: #3498db !default;
+$secondary: #2c3e50 !default;
+$success: #27ae60 !default;
+$info: #17a2b8 !default;
+$warning: #f39c12 !default;
+$danger: #e74c3c !default;
+
+// Fontes
+$font-family-sans-serif: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !default;
+$headings-font-family: $font-family-sans-serif !default;
+
+/*-- scss:rules --*/
+
+// Customizações específicas
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.hero-section {
+  background: linear-gradient(135deg, $primary, $secondary);
+  color: white;
+  padding: 3rem 0;
+  margin-bottom: 2rem;
+}
+
+.publication-item {
+  border-left: 4px solid $primary;
+  padding-left: 1rem;
+  margin-bottom: 2rem;
+}
+
+.project-card {
+  border: 1px solid #dee2e6;
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  transition: box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}

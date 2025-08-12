@@ -1,0 +1,61 @@
+---
+title: "Publicações"
+---
+
+## Artigos em Periódicos
+
+$\mathcal{G}_{I}^{0}$ **ARMA process for speckled data**  
+**ALMEIDA-JUNIOR, PEDRO M.**; NASCIMENTO, ABRAÃO D. C.
+Journal of Statistical Computation and Simulation, 2021 
+Impact Factor: --
+
+[PDF](link) | [DOI](https://doi.org/10.1080/00949655.2021.1922688)
+
+> Este trabalho apresenta um novo processo ARMA aseado na distribuição $\mathcal{G}_{I}^{0}$. 
+
+**K-Bessel regression model for speckled data**  
+*NASCIMENTO, A.D.C; **ALMEIDA JUNIOR, P. M.**; VASCONCELOS, J. M.; BORGES-JUNIOR, A. P. M.*  
+Journal of Applied Statistics, 2022  
+Impact Factor: --
+
+[PDF](link) | [DOI](https://doi.org/10.1080/02664763.2022.2125935)
+
+> Este trabalho apresenta um novo modelo de regressão utilizando a distribuição k-Bessel.
+
+**Generalized gamma ARMA process for synthetic aperture radar amplitude and intensity data**  
+*SILVA, W. B. F.; **ALMEIDA JUNIOR, P. M.**; NASCIMENTO, ABRAÃO D. C.*  
+Environmetrics, 2023  
+Impact Factor: --
+
+[PDF](link) | [DOI](https://doi.org/10.1002/env.2816)
+
+
+
+```{r}
+#| echo: false
+#| fig-cap: "Publicações por ano"
+
+library(ggplot2)
+
+# Dados de exemplo - substitua pelos seus dados reais
+dados_pub <- data.frame(
+  ano = c(2021, 2022, 2023),
+  artigos = c(1, 1, 1),
+  conferencias = c(0, 0, 0)
+)
+
+dados_long <- tidyr::gather(dados_pub, tipo, quantidade, -ano)
+
+ggplot(dados_long, aes(x = ano, y = quantidade, fill = tipo)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  theme_minimal() +
+  labs(
+    title = "Produção Científica por Ano",
+    x = "Ano",
+    y = "Número de Publicações",
+    fill = "Tipo"
+  ) +
+  scale_fill_manual(values = c("#3498db", "#e74c3c"))
+```
+
+---

@@ -1,16 +1,321 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Econometria",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publicações",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "\\(\\mathcal{G}_{I}^{0}\\) ARMA process for speckled data\nALMEIDA-JUNIOR, PEDRO M.; NASCIMENTO, ABRAÃO D. C. Journal of Statistical Computation and Simulation, 2021 Impact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo processo ARMA aseado na distribuição \\(\\mathcal{G}_{I}^{0}\\).\n\nK-Bessel regression model for speckled data\nNASCIMENTO, A.D.C; ALMEIDA JUNIOR, P. M.; VASCONCELOS, J. M.; BORGES-JUNIOR, A. P. M.\nJournal of Applied Statistics, 2022\nImpact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo modelo de regressão utilizando a distribuição k-Bessel.\n\nGeneralized gamma ARMA process for synthetic aperture radar amplitude and intensity data\nSILVA, W. B. F.; ALMEIDA JUNIOR, P. M.; NASCIMENTO, ABRAÃO D. C.\nEnvironmetrics, 2023\nImpact Factor: –\nPDF | DOI\n\n\n\n\n\nPublicações por ano",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Publicações"
+    ]
+  },
+  {
+    "objectID": "publications.html#artigos-em-periódicos",
+    "href": "publications.html#artigos-em-periódicos",
+    "title": "Publicações",
+    "section": "",
+    "text": "\\(\\mathcal{G}_{I}^{0}\\) ARMA process for speckled data\nALMEIDA-JUNIOR, PEDRO M.; NASCIMENTO, ABRAÃO D. C. Journal of Statistical Computation and Simulation, 2021 Impact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo processo ARMA aseado na distribuição \\(\\mathcal{G}_{I}^{0}\\).\n\nK-Bessel regression model for speckled data\nNASCIMENTO, A.D.C; ALMEIDA JUNIOR, P. M.; VASCONCELOS, J. M.; BORGES-JUNIOR, A. P. M.\nJournal of Applied Statistics, 2022\nImpact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo modelo de regressão utilizando a distribuição k-Bessel.\n\nGeneralized gamma ARMA process for synthetic aperture radar amplitude and intensity data\nSILVA, W. B. F.; ALMEIDA JUNIOR, P. M.; NASCIMENTO, ABRAÃO D. C.\nEnvironmetrics, 2023\nImpact Factor: –\nPDF | DOI\n\n\n\n\n\nPublicações por ano",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Publicações"
+    ]
+  },
+  {
+    "objectID": "publications.html#conferências",
+    "href": "publications.html#conferências",
+    "title": "Publicações",
+    "section": "Conferências",
+    "text": "Conferências\n\n2024\nML Pipeline Optimization for Production Systems\nInternational Conference on Machine Learning (ICML)\nVienna, Austria, 2024\nPDF | Slides",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Publicações"
+    ]
+  },
+  {
+    "objectID": "publications.html#livros-e-capítulos",
+    "href": "publications.html#livros-e-capítulos",
+    "title": "Publicações",
+    "section": "Livros e Capítulos",
+    "text": "Livros e Capítulos\nMachine Learning na Prática: Guia Completo\nEditora Universitária, 2023\nISBN: 978-85-xxxx-xxx-x\nLink\n\n\n\n\n\nPublicações por ano",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Publicações"
+    ]
+  },
+  {
+    "objectID": "materials.html",
+    "href": "materials.html",
+    "title": "meu_site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "meu_site"
+    ]
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Nome: Pedro Monteiro de Almeida Junior\nLattes: http://lattes.cnpq.br/\nORCID: https://orcid.org/\nLinkedin: https://www.linkedin.com/\nEmail: pedroalmeida@servidor.uepb.edu.br"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contato",
+    "section": "",
+    "text": "Universidade Estadual da Paraíba\nDepartamento de Estatística - CCT Campina Grande, Paraíba.\n\n\n\nE-mail: [pedroalmeida@servidor.uepb.edu.br]\nHorário de Atendimento:\nTerças-feiras: 14:00-17:00\nQuintas-feiras: 14:00-17:00"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Disciplinas",
+    "section": "",
+    "text": "📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Quarta e Sexta, 09:00-12:00\nSala: A-116p - CCT - Bloco A\n\n\nIntrodução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\n\n\n\n\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\n\n\n\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)\n\n\n\n\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Cengage Learning 2010.\n\n\n\n\n\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 1 e 2): 50%\n\n\n\n\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 3 e 4) 50%\n\n\n\n\n\n\n\nSlides Aula 1\n\n\n\n\n\nLista 1",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Prof. Pedro M. Almeida-Junior",
+    "section": "",
+    "text": "Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB). Atuo também como Estatístico/Cientista de dados na Capgemini Brasil. Gosto de desenvolver pesquisas nas áreas de Regressão e Séries Temporais. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning no setor bancário.\n\n\n\nEstatística Aplicada\nSéries Temporais\nMachine Learning\nCiência de Dados\nSensoriamento Remoto para dados SAR\nEstatística Espacial\n\n\n\n\n\n\nPhD em Estatística\nUFPE | 2021\n\n\nMestrado em Estatística\nUFPE | 2016\n\n\nBacharelado em Estatística\nUFPB | 2014"
+  },
+  {
+    "objectID": "index.html#bem-vindo",
+    "href": "index.html#bem-vindo",
+    "title": "Prof. Pedro M. Almeida-Junior",
+    "section": "",
+    "text": "Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba.\n\n\n\nEstatística Aplicada\nSéries Temporais\nMachine Learning\nCiência de Dados\nSensoriamento Remoto para dados SAR\nEstatística Espacial\n\n\n\n\n\n\nPhD em Estatística\nUFPE | 2021\n\n\nMestrado em Estatística\nUFPE | 2016\n\n\nBacharelado em Estatística\nUFPB | 2014"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projetos de Pesquisa",
+    "section": "",
+    "text": "Financiador: CNPq - Pibic Período: 2025-2026 Papel: Coordenador\nObjetivo: Desenvolvimento dos processos G0-ARMA e KB-ARMA para predição de índices de vegetação RVI.\nEquipe: - Prof. Dr. Pedro M. Almeida-Junior (Coordenador) - Elizeu Silva Medeiros (Discente)\nResultados Esperados: - 1 artigo publicado em periódicos internacionais\n\n\n\nFinanciador: CNPq - Pibic Período: 2025-2026 Papel: Coordenador\nObjetivo: Construção de novos classificadores utilizando medidas de divergência para séries temporais.\nEquipe: - Prof. Dr. Pedro M. Almeida-Junior (Coordenador) - Italo Gabriel da Silva (Discente)\nResultados Esperados: - 1 artigo publicado em periódicos internacionais",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Projetos de Pesquisa"
+    ]
+  },
+  {
+    "objectID": "contact.html#informações-de-contato",
+    "href": "contact.html#informações-de-contato",
+    "title": "Contato",
+    "section": "",
+    "text": "Universidade Estadual da Paraíba\nDepartamento de Estatística - CCT Campina Grande, Paraíba.\n\n\n\nE-mail: [pedroalmeida@servidor.uepb.edu.br]\nHorário de Atendimento:\nTerças-feiras: 14:00-17:00\nQuintas-feiras: 14:00-17:00"
+  },
+  {
+    "objectID": "cv.html#identificação",
+    "href": "cv.html#identificação",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Nome: Pedro Monteiro de Almeida Junior\nLattes: http://lattes.cnpq.br/\nORCID: https://orcid.org/\nLinkedin: https://www.linkedin.com/\nEmail: pedroalmeida@servidor.uepb.edu.br"
+  },
+  {
+    "objectID": "cv.html#formação-acadêmica",
+    "href": "cv.html#formação-acadêmica",
+    "title": "Curriculum Vitae",
+    "section": "Formação Acadêmica",
+    "text": "Formação Acadêmica\n\nPós-Graduação\n2018-2021: Doutorado em Estatística\nUniversidade Federal de Pernambuco (UFPE).\nTítulo: Processamento de Imagens SAR por estruturas aproximadas do tipo ARMA.\nOrientador: Prof. Dr. Abraão David Costa do Nascimento\n2014-2016: Mestrado em Estatística\nUniversidade Federal de Pernambuco (UFPE)\nTítulo: Teoria da informação aplicadas a modelos ARMA: Testes para identificação e quantificação de overfitting\nOrientador: Prof. Dr. Abraão David Costa do Nascimento\n\n\nGraduação\n2011-2014: Bacharelado em Estatística\nUniversidade Federal da Paraíba (UFPB)"
+  },
+  {
+    "objectID": "cv.html#experiência-profissional",
+    "href": "cv.html#experiência-profissional",
+    "title": "Curriculum Vitae",
+    "section": "Experiência Profissional",
+    "text": "Experiência Profissional\n2022-atual: Estatístico/Cientista de Dados | Coordenador de Soluções Digitais\nCapgemini - Experiência do usuário - Projeto Banco do Brasil.\n2025-atual: Professor Adjunto A\nUEPB - Departamento de Estatística\n2021-2023: Professor Substituto\nUEPB - Departamento de Estatística\n2021-2022: Estatístico/Cientista de Dados\nHARTB - Marketing Analytics | Sistemas de recomendação - Projeto Casas Bahia\n2016-2017: Estatístico/Cientista de Dados\nNeurotech - Credit Score - Diversos Clientes"
+  },
+  {
+    "objectID": "cv.html#métricas-de-produção",
+    "href": "cv.html#métricas-de-produção",
+    "title": "Curriculum Vitae",
+    "section": "Métricas de Produção",
+    "text": "Métricas de Produção"
+  },
+  {
+    "objectID": "courses.html#semestre-2024.2",
+    "href": "courses.html#semestre-2024.2",
+    "title": "Disciplinas",
+    "section": "",
+    "text": "Código: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Quarta e Sexta, 09:00-12:00\nSala: A-116p - CCT - Bloco A\nEmenta: Introdução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\nConteúdo programático:\nUnidade 1:\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\nUnidade 2:\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)\n\nReferências Bibliográfica\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Tradução da 2ª Edição Norte Americana. São Paulo: Cengage Learning 2010.\n\nAvaliação: Unidade 1:\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 1 e 2): 50%\n\nUnidade 2:\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 3 e 4) 50%\n\nMateriais: - Slides Aula 1\n\n\n\nCódigo: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Quarta e Sexta, 09:00-12:00\nSala: A-116p - CCT - Bloco A\nEmenta: Introdução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\nCOnteúdo programático:\nUnidade 1:\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\nUnidade 2:\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)\n\nReferências Bibliográfica\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Tradução da 2ª Edição Norte Americana. São Paulo: Cengage Learning 2010.\n\nAvaliação: Unidade 1:\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 1 e 2): 50%\n\nUnidade 2:\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 3 e 4) 50%\n\nMateriais: - Slides Aula 1\n\n\n\nCódigo: GRAD.00142 | Créditos: 4 | Carga Horária: 60h\nHorário: Quarta (18:00-20:00) e Sexta (20:00-22:00), Sala: Quarta (A-212 - LAB INFO III - CCT - Bloco A) e Sexta (C-110p - CCT - Bloco C)\nEmenta: Introdução séries temporais. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\nConteúdo programático:\nUnidade 1:\n\nIntrodução a séries temporais\n\nUnidade 2:\n\nModelos ARIMA\n\nReferências Bibliográfica\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Tradução da 2ª Edição Norte Americana. São Paulo: Cengage Learning 2010.\n\nAvaliação: Unidade 1:\n\nAtividades: Peso 2\nSeminários: Peso 8\nReposição (Prova todo assunto da unidade 1): Peso 10\n\nUnidade 2:\n\nAtividades: Peso 2\nSeminários: Peso 8\nReposição (Prova todo assunto da unidade 1): Peso 10\n\nMateriais: - Slides",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "projects.html#projetos-em-andamento",
+    "href": "projects.html#projetos-em-andamento",
+    "title": "Projetos de Pesquisa",
+    "section": "",
+    "text": "Financiador: CNPq - Pibic Período: 2025-2026 Papel: Coordenador\nObjetivo: Desenvolvimento dos processos G0-ARMA e KB-ARMA para predição de índices de vegetação RVI.\nEquipe: - Prof. Dr. Pedro M. Almeida-Junior (Coordenador) - Elizeu Silva Medeiros (Discente)\nResultados Esperados: - 1 artigo publicado em periódicos internacionais\n\n\n\nFinanciador: CNPq - Pibic Período: 2025-2026 Papel: Coordenador\nObjetivo: Construção de novos classificadores utilizando medidas de divergência para séries temporais.\nEquipe: - Prof. Dr. Pedro M. Almeida-Junior (Coordenador) - Italo Gabriel da Silva (Discente)\nResultados Esperados: - 1 artigo publicado em periódicos internacionais",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Projetos de Pesquisa"
+    ]
+  },
+  {
+    "objectID": "projects.html#projetos-finalizados",
+    "href": "projects.html#projetos-finalizados",
+    "title": "Projetos de Pesquisa",
+    "section": "Projetos Finalizados",
+    "text": "Projetos Finalizados\n\nMachine Learning para Diagnóstico Médico\nFinanciador: Ministério da Saúde\nPeríodo: 2021-2024\nValor: R$ 320.000\nStatus: Finalizado\nPrincipais Resultados: - 8 artigos publicados - 1 patent depositada - Sistema implementado em 3 hospitais",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Projetos de Pesquisa"
+    ]
+  },
+  {
+    "objectID": "contact.html#redes-sociais-e-acadêmicas",
+    "href": "contact.html#redes-sociais-e-acadêmicas",
+    "title": "Contato",
+    "section": "Redes Sociais e Acadêmicas",
+    "text": "Redes Sociais e Acadêmicas\n\nGitHub\nLinkedIn"
+  },
+  {
+    "objectID": "contact.html#localização",
+    "href": "contact.html#localização",
+    "title": "Contato",
+    "section": "Localização",
+    "text": "Localização"
+  },
+  {
+    "objectID": "courses.html#semestre-2025.2",
+    "href": "courses.html#semestre-2025.2",
+    "title": "Disciplinas",
+    "section": "",
+    "text": "Inferência Estatística (Manhã)\n\n\n\n📚 Informações📋 Ementa📖 Conteúdo📚 Bibliografia📊 Avaliação\n\n\nCódigo: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Quarta e Sexta, 09:00-12:00\nSala: A-116p - CCT - Bloco A\n\n\nIntrodução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\n\n\n\n\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\n\n\n\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)\n\n\n\n\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Cengage Learning 2010.\n\n\n\n\n\n\nProva 1: 25%\nProva 2: 25%\nReposição: 50%",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "courses.html#inferência-estatística-manhã",
+    "href": "courses.html#inferência-estatística-manhã",
+    "title": "Disciplinas",
+    "section": "Inferência Estatística (Manhã)",
+    "text": "Inferência Estatística (Manhã)\n\n📚 Informações📋 Ementa📖 Conteúdo📚 Bibliografia📊 Avaliação\n\n\nCódigo: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Quarta e Sexta, 09:00-12:00\nSala: A-116p - CCT - Bloco A\n\n\nIntrodução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\n\n\n\nUnidade 1\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\n\n\nUnidade 2\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)\n\n\n\n\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Cengage Learning 2010.\n\n\n\n\nUnidade 1\n\nProva 1: 25%\nProva 2: 25%\nReposição: 50%",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "courses.html#inferência-estatística-noite",
+    "href": "courses.html#inferência-estatística-noite",
+    "title": "Disciplinas",
+    "section": "Inferência Estatística (Noite)",
+    "text": "Inferência Estatística (Noite)\n::: {.accordion}\n\nInformações Gerais\n\nCódigo: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Quarta e Sexta, 09:00-12:00\nSala: A-116p - CCT - Bloco A\n\n\n\nEmenta\n\nIntrodução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.:::\n\nConteúdo Programático\n\nUnidade 1:\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\nUnidade 2:\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "courses.html#séries-temporais",
+    "href": "courses.html#séries-temporais",
+    "title": "Disciplinas",
+    "section": "Séries temporais",
+    "text": "Séries temporais\n\n\nInformações Gerais\n\nCódigo: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Quarta e Sexta, 09:00-12:00\nSala: A-116p - CCT - Bloco A\n\n\n\nEmenta\n\nIntrodução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.:::\n\nConteúdo Programático\n\nUnidade 1:\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\nUnidade 2:\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "courses.html#inferência-estatística-manhã-1",
+    "href": "courses.html#inferência-estatística-manhã-1",
+    "title": "Disciplinas",
+    "section": "Inferência Estatística (Manhã)",
+    "text": "Inferência Estatística (Manhã)\nCódigo: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Quarta e Sexta, 09:00-12:00\nSala: A-116p - CCT - Bloco A\nEmenta: Introdução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\nConteúdo programático:\nUnidade 1:\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\nUnidade 2:\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)\n\nReferências Bibliográfica\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Tradução da 2ª Edição Norte Americana. São Paulo: Cengage Learning 2010.\n\nAvaliação: Unidade 1:\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 1 e 2): 50%\n\nUnidade 2:\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 3 e 4) 50%\n\nMateriais: - Slides Aula 1\n\nInferência Estatística (Noite)\nCódigo: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Quarta e Sexta, 09:00-12:00\nSala: A-116p - CCT - Bloco A\nEmenta: Introdução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\nCOnteúdo programático:\nUnidade 1:\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\nUnidade 2:\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)\n\nReferências Bibliográfica\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Tradução da 2ª Edição Norte Americana. São Paulo: Cengage Learning 2010.\n\nAvaliação: Unidade 1:\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 1 e 2): 50%\n\nUnidade 2:\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 3 e 4) 50%\n\nMateriais: - Slides Aula 1\n\n\nSéries Temporais (Noite)\nCódigo: GRAD.00142 | Créditos: 4 | Carga Horária: 60h\nHorário: Quarta (18:00-20:00) e Sexta (20:00-22:00), Sala: Quarta (A-212 - LAB INFO III - CCT - Bloco A) e Sexta (C-110p - CCT - Bloco C)\nEmenta: Introdução séries temporais. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\nConteúdo programático:\nUnidade 1:\n\nIntrodução a séries temporais\n\nUnidade 2:\n\nModelos ARIMA\n\nReferências Bibliográfica\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Tradução da 2ª Edição Norte Americana. São Paulo: Cengage Learning 2010.\n\nAvaliação: Unidade 1:\n\nAtividades: Peso 2\nSeminários: Peso 8\nReposição (Prova todo assunto da unidade 1): Peso 10\n\nUnidade 2:\n\nAtividades: Peso 2\nSeminários: Peso 8\nReposição (Prova todo assunto da unidade 1): Peso 10\n\nMateriais: - Slides",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "courses.html#inferência-estatística-2025.2---manhã",
+    "href": "courses.html#inferência-estatística-2025.2---manhã",
+    "title": "Disciplinas",
+    "section": "",
+    "text": "📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Quarta e Sexta, 09:00-12:00\nSala: A-116p - CCT - Bloco A\n\n\nIntrodução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\n\n\n\n\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\n\n\n\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)\n\n\n\n\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Cengage Learning 2010.\n\n\n\n\n\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 1 e 2): 50%\n\n\n\n\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 3 e 4) 50%\n\n\n\n\n\n\n\nSlides Aula 1\n\n\n\n\n\nLista 1",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "courses.html#inferência-estatística-2025.2---noite",
+    "href": "courses.html#inferência-estatística-2025.2---noite",
+    "title": "Disciplinas",
+    "section": "Inferência Estatística (2025.2 - Noite)",
+    "text": "Inferência Estatística (2025.2 - Noite)\n\n📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Seg (18:00-20:00) | Seg (20:00-22:00) | Sex (18:00-20:00)\nSala: B-208p - CCT - Bloco B\n\n\nIntrodução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\n\n\n\nUnidade 1\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\n\n\nUnidade 2\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)\n\n\n\n\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Cengage Learning 2010.\n\n\n\n\nUnidade 1\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 1 e 2): 50%\n\n\n\nUnidade 2\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 3 e 4) 50%\n\n\n\n\n\nNotas de aula\n\nSlides Aula 1\n\n\n\nListas de exercícios\n\nLista 1",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "courses.html#inferência-estatística-2025.2---noite-1",
+    "href": "courses.html#inferência-estatística-2025.2---noite-1",
+    "title": "Disciplinas",
+    "section": "Inferência Estatística (2025.2 - Noite)",
+    "text": "Inferência Estatística (2025.2 - Noite)\n\n📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.02599 | Créditos: 6 | Carga Horária: 90h\nHorário: Seg (18:00-20:00) | Seg (20:00-22:00) | Sex (18:00-20:00)\nSala: B-208p - CCT - Bloco B\n\n\nIntrodução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\n\n\n\nUnidade 1\n\nIntrodução a inferência estatística\nPopulação e amostras- Estatísticas e parâmetros\nDistribuições amostrais\nErro quadrático médio\nEstimadores não viesados\nEstimadores eficientes\nEstatísticas suficientes\nFamílias exponenciais\nMétodos de estimação: Método da máxima verossimilhança e Método dos momentos.\n\n\n\nUnidade 2\n\nEstimação paramétrica intervalar (método da quantidade pivotal)\nIntervalos de confiança para uma e duas amostras de populações normais\nTestes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos.\nPrincipais testes de hipóteses (média, proporção e variância)\n\n\n\n\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Cengage Learning 2010.\n\n\n\n\nUnidade 1\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 1 e 2): 50%\n\n\n\nUnidade 2\n\nProva 1: 25%\nProva 2: 25%\nReposição (Assunto prova 3 e 4) 50%\n\n\n\n\n\nNotas de aula\n\nSlides Aula 1\n\n\n\nListas de exercícios\n\nLista 1",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "courses.html#séries-temporais-2025.2---noite",
+    "href": "courses.html#séries-temporais-2025.2---noite",
+    "title": "Disciplinas",
+    "section": "Séries Temporais (2025.2 - Noite)",
+    "text": "Séries Temporais (2025.2 - Noite)\n\n📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.00142 | Créditos: 4 | Carga Horária: 60h\nHorário: Quarta (18:00-20:00) | Sexta (20:00-22:00)\nSala: Quarta (A-212 - LAB INFO III - CCT - Bloco A) e Sexta (C-110p - CCT - Bloco C)\n\n\nIntrodução séries temporais. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.\n\n\n\nUnidade 1\n\nADD\n\n\n\nUnidade 2\n\nADD\n\n\n\n\n\nBOLFARINE, H & SANDOVAL, M. C. Introdução à Inferência Estatística. SBM, Rio de Janeiro, 2001.\nCASELLA, G; BERGER, R. L. Inferência Estatística. Cengage Learning 2010.\n\n\n\n\nUnidade 1\n\nAtividades: Peso 2\nSeminários: Peso 8\nReposição (Prova todo assunto da unidade 1): Peso 10\n\n\n\nUnidade 2\n\nAtividades: Peso 2\nSeminários: Peso 8\nReposição (Prova todo assunto da unidade 1): Peso 10\n\n\n\n\n\nNotas de aula\n\n\nAula 1\n\nSlides Aula 1\n\n\n\nListas de exercícios\n\nLista 1\n\n\n\nProjetos/Seminários\n\nProjeto 1",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "index.html#sobre-mim",
+    "href": "index.html#sobre-mim",
+    "title": "Prof. Pedro M. Almeida-Junior",
+    "section": "",
+    "text": "Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB). Atuo também como Estatístico/Cientista de dados na Capgemini Brasil. Gosto de desenvolver pesquisas nas áreas de Regressão e Séries Temporais. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de Machine Learning no setor bancário.\n\n\n\nEstatística Aplicada\nSéries Temporais\nMachine Learning\nCiência de Dados\nSensoriamento Remoto para dados SAR\nEstatística Espacial\n\n\n\n\n\n\nPhD em Estatística\nUFPE | 2021\n\n\nMestrado em Estatística\nUFPE | 2016\n\n\nBacharelado em Estatística\nUFPB | 2014"
   }
 ]

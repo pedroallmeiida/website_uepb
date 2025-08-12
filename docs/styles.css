@@ -1,1 +1,38 @@
 /* css styles */
+
+
+.info-box {
+  text-align: center;
+  padding: 20px;
+  background: #f8f9fa;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.info-box i {
+  font-size: 2rem;
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.timeline {
+  position: relative;
+  padding-left: 30px;
+}
+
+.timeline-item {
+  position: relative;
+  padding-bottom: 30px;
+  border-left: 2px solid #007bff;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -8px;
+  top: 0;
+  width: 12px;
+  height: 12px;
+  background: #007bff;
+  border-radius: 50%;
+}

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Pedro - Prof.&nbsp;Pedro M. Almeida-Junior</title>
+<title>Pedro - Contato</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -67,6 +67,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
@@ -105,21 +106,21 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <script src="site_libs/htmlwidgets-1.6.4/htmlwidgets.js"></script>
 
-<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet">
-
-<script src="site_libs/datatables-binding-0.33/datatables.js"></script>
-
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 
-<link href="site_libs/dt-core-1.13.6/css/jquery.dataTables.min.css" rel="stylesheet">
+<link href="site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet">
 
-<link href="site_libs/dt-core-1.13.6/css/jquery.dataTables.extra.css" rel="stylesheet">
+<script src="site_libs/leaflet-1.3.1/leaflet.js"></script>
 
-<script src="site_libs/dt-core-1.13.6/js/jquery.dataTables.min.js"></script>
+<link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet">
 
-<link href="site_libs/crosstalk-1.2.1/css/crosstalk.min.css" rel="stylesheet">
+<script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
 
-<script src="site_libs/crosstalk-1.2.1/js/crosstalk.min.js"></script>
+<script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
+
+<link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet">
+
+<script src="site_libs/leaflet-binding-2.2.2/leaflet.js"></script>
 
 
 
@@ -144,11 +145,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Início</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link active" href="./publications.html" aria-current="page"> 
 <span class="menu-text">Publicações</span></a>
   </li>  
   <li class="nav-item">
@@ -158,10 +159,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li class="nav-item">
     <a class="nav-link" href="./courses.html"> 
 <span class="menu-text">Disciplinas</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./slides/"> 
-<span class="menu-text">Slides</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./cv.html"> 
@@ -195,7 +192,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Prof.&nbsp;Pedro M. Almeida-Junior</li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">Contato</li></ol></nav>
         <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -269,92 +266,75 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
+   
   <ul>
-  <li><a href="#sobre-mim" id="toc-sobre-mim" class="nav-link active" data-scroll-target="#sobre-mim">Sobre mim</a>
-  <ul class="collapse">
-  <li><a href="#áreas-de-interesse" id="toc-áreas-de-interesse" class="nav-link" data-scroll-target="#áreas-de-interesse">Áreas de Interesse</a></li>
-  <li><a href="#formação" id="toc-formação" class="nav-link" data-scroll-target="#formação">Formação</a></li>
-  <li><a href="#destaques-recentes" id="toc-destaques-recentes" class="nav-link" data-scroll-target="#destaques-recentes">Destaques Recentes</a></li>
-  </ul></li>
+  <li><a href="#informações-de-contato" id="toc-informações-de-contato" class="nav-link active" data-scroll-target="#informações-de-contato">Informações de Contato</a></li>
+  <li><a href="#redes-sociais-e-acadêmicas" id="toc-redes-sociais-e-acadêmicas" class="nav-link" data-scroll-target="#redes-sociais-e-acadêmicas">Redes Sociais e Acadêmicas</a></li>
+  <li><a href="#localização" id="toc-localização" class="nav-link" data-scroll-target="#localização">Localização</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<div class="quarto-about-broadside column-page content">
-  <div class="about-main">
-    <div class="about-entity" style="background-image: url('figuras/profile2.jpg')"></div>
-    <div class="about-contents"><header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<div class="quarto-title-block"><div><h1 class="title">Prof.&nbsp;Pedro M. Almeida-Junior</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
-<p class="subtitle lead">Professor &amp; Pesquisador | Departamento de Estatística | UEPB</p>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header><main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
-<section id="sobre-mim" class="level2">
-<h2 data-anchor-id="sobre-mim">Sobre mim</h2>
-<p>Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB). Atuo também como Estatístico/Cientista de dados na Capgemini Brasil. Gosto de desenvolver pesquisas nas áreas de Regressão e Séries Temporais. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de <em>Machine Learning</em> no setor bancário.</p>
-<section id="áreas-de-interesse" class="level3">
-<h3 data-anchor-id="áreas-de-interesse">Áreas de Interesse</h3>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<div class="quarto-title-block"><div><h1 class="title">Contato</h1><button type="button" class="btn code-tools-button" id="quarto-code-tools-source"><i class="bi"></i> Code</button></div></div>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="informações-de-contato" class="level2">
+<h2 class="anchored" data-anchor-id="informações-de-contato">Informações de Contato</h2>
+<div class="grid">
+<section id="endereço-profissional" class="level3 g-col-6">
+<h3 class="anchored" data-anchor-id="endereço-profissional">Endereço Profissional</h3>
+<p><strong>Universidade Estadual da Paraíba</strong><br>
+Departamento de Estatística - CCT Campina Grande, Paraíba.</p>
+</section>
+<section id="contato" class="level3 g-col-6">
+<h3 class="anchored" data-anchor-id="contato">Contato</h3>
+<p><strong>E-mail:</strong> [pedroalmeida@servidor.uepb.edu.br]</p>
+<p><strong>Horário de Atendimento:</strong><br>
+Terças-feiras: 14:00-17:00<br>
+Quintas-feiras: 14:00-17:00</p>
+</section>
+</div>
+</section>
+<section id="redes-sociais-e-acadêmicas" class="level2">
+<h2 class="anchored" data-anchor-id="redes-sociais-e-acadêmicas">Redes Sociais e Acadêmicas</h2>
 <ul>
-<li>Estatística Aplicada</li>
-<li>Séries Temporais</li>
-<li>Machine Learning</li>
-<li>Ciência de Dados</li>
-<li>Sensoriamento Remoto para dados SAR</li>
-<li>Estatística Espacial</li>
+<li><a href="https://github.com/pedroallmeiida">GitHub</a></li>
+<li><a href="https://www.linkedin.com/in/pedro-almeida-1b9676122/">LinkedIn</a></li>
 </ul>
 </section>
-<section id="formação" class="level3">
-<h3 data-anchor-id="formação">Formação</h3>
-<div class="grid">
-<div class="g-col-4">
-<p><strong>PhD em Estatística</strong><br>
-UFPE | 2021</p>
-</div>
-<div class="g-col-4">
-<p><strong>Mestrado em Estatística</strong><br>
-UFPE | 2016</p>
-</div>
-<div class="g-col-4">
-<p><strong>Bacharelado em Estatística</strong><br>
-UFPB | 2014</p>
-</div>
-</div>
-</section>
-<section id="destaques-recentes" class="level3">
-<h3 data-anchor-id="destaques-recentes">Destaques Recentes</h3>
+<section id="localização" class="level2">
+<h2 class="anchored" data-anchor-id="localização">Localização</h2>
 <div class="cell">
 <div class="cell-output-display">
-<div class="datatables html-widget html-fill-item" id="htmlwidget-8f7d893545111fb09772" style="width:100%;height:auto;"></div>
-<script type="application/json" data-for="htmlwidget-8f7d893545111fb09772">{"x":{"filter":"none","vertical":false,"data":[[2023,2022,2021],["Generalized gamma ARMA process for synthetic aperture radar amplitude and intensity data","K-Bessel regression model for speckled data","ARMA process for speckled data"],["Environmetrics","JAS","JSCS"],[null,null,null]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th>Ano<\/th>\n      <th>Titulo<\/th>\n      <th>Journal<\/th>\n      <th>Impacto<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":5,"dom":"t","columnDefs":[{"className":"dt-center","targets":[0,3]},{"name":"Ano","targets":0},{"name":"Titulo","targets":1},{"name":"Journal","targets":2},{"name":"Impacto","targets":3}],"order":[],"autoWidth":false,"orderClasses":false,"lengthMenu":[5,10,25,50,100]}},"evals":[],"jsHooks":[]}</script>
+<div class="leaflet html-widget html-fill-item" id="htmlwidget-b11a09b03e20e6c5a4bf" style="width:100%;height:464px;"></div>
+<script type="application/json" data-for="htmlwidget-b11a09b03e20e6c5a4bf">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addMarkers","args":[-7.2104,-35.9209,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"UEPB - Campus Bodocongó<br>Av. Baraúnas, 351",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[-7.2104,-7.2104],"lng":[-35.9209,-35.9209]},"setView":[[-7.210453,-35.92087],14,[]]},"evals":[],"jsHooks":[]}</script>
 </div>
 </div>
-<hr>
 
 
 <!-- -->
+
 </section>
-</section>
-</main></div>
-  </div>
-  <div class="about-links">
-  <a href="https://www.linkedin.com/in/pedro-almeida-1b9676122/" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">Linkedin</span>
-  </a>
-  <a href="https://github.com/pedroallmeiida" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">Github</span>
-  </a>
-  <a href="mailto:pedroalmeida@servidor.uepb.edu.br" class="about-link" rel="" target="">
-    <i class="bi bi-envelope"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -519,6 +499,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   } else {
     toggleColorMode(false);
   }
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
@@ -953,92 +940,55 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script><div class="modal fade" id="quarto-embedded-source-code-modal" tabindex="-1" aria-labelledby="quarto-embedded-source-code-modal-label" aria-hidden="true"><div class="modal-dialog modal-dialog-scrollable"><div class="modal-content"><div class="modal-header"><h5 class="modal-title" id="quarto-embedded-source-code-modal-label">Source Code</h5><button class="btn-close" data-bs-dismiss="modal"></button></div><div class="modal-body"><div class="">
 <div class="sourceCode" id="cb1" data-shortcodes="false"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Prof. Pedro M. Almeida-Junior"</span></span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="an">subtitle:</span><span class="co"> "Professor &amp; Pesquisador | Departamento de Estatística | UEPB"</span></span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="an">image:</span><span class="co"> figuras/profile2.jpg</span></span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="an">about:</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co">  template: broadside</span></span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co">  links:</span></span>
-<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co">    - icon: linkedin</span></span>
-<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="co">      text: Linkedin</span></span>
-<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co">      href: https://www.linkedin.com/in/pedro-almeida-1b9676122/</span></span>
-<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="co">    - icon: github</span></span>
-<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="co">      text: Github</span></span>
-<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co">      href: https://github.com/pedroallmeiida</span></span>
-<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="co">    - icon: envelope</span></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a><span class="co">      text: Email</span></span>
-<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="co">      href: mailto:pedroalmeida@servidor.uepb.edu.br</span></span>
-<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
-<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="an">title:</span><span class="co"> "Contato"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co">---</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="fu">## Informações de Contato</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>::: {.grid}</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>::: {.g-col-6}</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="fu">### Endereço Profissional</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>**Universidade Estadual da Paraíba**  </span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>Departamento de Estatística - CCT </span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>Campina Grande, Paraíba. </span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>::: {.g-col-6}</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="fu">### Contato</span></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a>**E-mail:** <span class="co">[</span><span class="ot">pedroalmeida@servidor.uepb.edu.br</span><span class="co">]</span>  </span>
 <span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a><span class="fu">## Sobre mim</span></span>
-<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB). Atuo também como Estatístico/Cientista de dados na Capgemini Brasil. Gosto de desenvolver pesquisas nas áreas de Regressão e Séries Temporais. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de *Machine Learning*  no setor bancário. </span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>**Horário de Atendimento:**  </span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a>Terças-feiras: 14:00-17:00  </span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>Quintas-feiras: 14:00-17:00</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>:::</span>
 <span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a><span class="fu">### Áreas de Interesse</span></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>:::</span>
 <span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Estatística Aplicada</span>
-<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Séries Temporais</span>
-<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Machine Learning</span>
-<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Ciência de Dados</span>
-<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Sensoriamento Remoto para dados SAR</span>
-<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span>Estatística Espacial </span>
-<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a><span class="fu">### Formação</span></span>
-<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>::: {.grid}</span>
-<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>::: {.g-col-4}</span>
-<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a>**PhD em Estatística**  </span>
-<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a>UFPE | 2021</span>
-<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a><span class="fu">## Redes Sociais e Acadêmicas</span></span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="co">[</span><span class="ot">GitHub</span><span class="co">](https://github.com/pedroallmeiida)</span></span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a><span class="ss">- </span><span class="co">[</span><span class="ot">LinkedIn</span><span class="co">](https://www.linkedin.com/in/pedro-almeida-1b9676122/)</span></span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a><span class="fu">## Localização</span></span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a><span class="in">```{r}</span></span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a><span class="co">#| echo: false</span></span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(leaflet)</span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(tidygeocoder)</span>
 <span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>::: {.g-col-4}</span>
-<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>**Mestrado em Estatística**  </span>
-<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>UFPE | 2016</span>
-<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>::: {.g-col-4}</span>
-<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>**Bacharelado em Estatística**  </span>
-<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>UFPB | 2014</span>
-<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a>:::</span>
-<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a><span class="fu">### Destaques Recentes</span></span>
-<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a><span class="in">```{r}</span></span>
-<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a><span class="co">#| echo: false</span></span>
-<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a><span class="co">#| warning: false</span></span>
-<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(DT)</span>
-<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(dplyr)</span>
-<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a><span class="co"># Dados das publicações recentes (você pode carregar de um CSV)</span></span>
-<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a>publicacoes_recentes <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(</span>
-<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a>  <span class="at">Ano =</span> <span class="fu">c</span>(<span class="dv">2023</span>, <span class="dv">2022</span>, <span class="dv">2021</span>),</span>
-<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a>  <span class="at">Titulo =</span> <span class="fu">c</span>(</span>
-<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a>    <span class="st">"Generalized gamma ARMA process for synthetic aperture radar amplitude and intensity data"</span>,</span>
-<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a>    <span class="st">"K-Bessel regression model for speckled data"</span>, </span>
-<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a>    <span class="st">"ARMA process for speckled data"</span></span>
-<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a>  ),</span>
-<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a>  <span class="at">Journal =</span> <span class="fu">c</span>(<span class="st">"Environmetrics"</span>, <span class="st">"JAS"</span>, <span class="st">"JSCS"</span>),</span>
-<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a>  <span class="at">Impacto =</span> <span class="cn">NA</span></span>
-<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a>DT<span class="sc">::</span><span class="fu">datatable</span>(</span>
-<span id="cb1-79"><a href="#cb1-79" aria-hidden="true" tabindex="-1"></a>  publicacoes_recentes,</span>
-<span id="cb1-80"><a href="#cb1-80" aria-hidden="true" tabindex="-1"></a>  <span class="at">options =</span> <span class="fu">list</span>(</span>
-<span id="cb1-81"><a href="#cb1-81" aria-hidden="true" tabindex="-1"></a>    <span class="at">pageLength =</span> <span class="dv">5</span>,</span>
-<span id="cb1-82"><a href="#cb1-82" aria-hidden="true" tabindex="-1"></a>    <span class="at">dom =</span> <span class="st">'t'</span>,</span>
-<span id="cb1-83"><a href="#cb1-83" aria-hidden="true" tabindex="-1"></a>    <span class="at">columnDefs =</span> <span class="fu">list</span>(<span class="fu">list</span>(<span class="at">className =</span> <span class="st">'dt-center'</span>, <span class="at">targets =</span> <span class="fu">c</span>(<span class="dv">0</span>, <span class="dv">3</span>)))</span>
-<span id="cb1-84"><a href="#cb1-84" aria-hidden="true" tabindex="-1"></a>  ),</span>
-<span id="cb1-85"><a href="#cb1-85" aria-hidden="true" tabindex="-1"></a>  <span class="at">rownames =</span> <span class="cn">FALSE</span></span>
-<span id="cb1-86"><a href="#cb1-86" aria-hidden="true" tabindex="-1"></a>)</span>
-<span id="cb1-87"><a href="#cb1-87" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
-<span id="cb1-88"><a href="#cb1-88" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-89"><a href="#cb1-89" aria-hidden="true" tabindex="-1"></a>---</span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a><span class="fu">leaflet</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>  <span class="fu">addTiles</span>() <span class="sc">%&gt;%</span></span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>  <span class="fu">addMarkers</span>(</span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>    <span class="at">lng =</span> <span class="sc">-</span><span class="fl">35.9209</span>,  <span class="co"># Longitude CORRETA (o anterior estava invertido)</span></span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a>    <span class="at">lat =</span> <span class="sc">-</span><span class="fl">7.2104</span>,   <span class="co"># Latitude CORRETA</span></span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>    <span class="at">popup =</span> <span class="st">"UEPB - Campus Bodocongó&lt;br&gt;Av. Baraúnas, 351"</span></span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">%&gt;%</span></span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>  <span class="fu">setView</span>(<span class="at">lng =</span> <span class="sc">-</span><span class="fl">35.92087</span>, <span class="at">lat =</span> <span class="sc">-</span><span class="fl">7.210453</span>, <span class="at">zoom =</span> <span class="dv">14</span>)</span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div></div></div></div></div>
 </div> <!-- /content -->

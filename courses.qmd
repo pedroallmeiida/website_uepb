@@ -1,0 +1,207 @@
+---
+title: "Disciplinas"
+---
+
+## Inferência Estatística (2025.2 - Manhã)
+
+
+::: {.panel-tabset}
+
+## 📊 Informações
+
+**Código:** GRAD.02599 | **Créditos:** 6 | **Carga Horária:** 90h  
+
+**Horário:** Quarta e Sexta, 09:00-12:00  
+
+**Sala:** A-116p - CCT - Bloco A
+
+## 📋 Ementa
+
+Introdução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.
+
+## 📖 Conteúdo
+
+### Unidade 1
+- Introdução a inferência estatística
+- População e amostras- Estatísticas e parâmetros 
+- Distribuições amostrais
+- Erro quadrático médio
+- Estimadores não viesados
+- Estimadores eficientes
+- Estatísticas suficientes
+- Famílias exponenciais
+- Métodos de estimação: Método da máxima verossimilhança e Método dos momentos.
+
+### Unidade 2
+- Estimação paramétrica intervalar (método da quantidade pivotal)
+- Intervalos de confiança para uma e duas amostras de populações normais
+- Testes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos. 
+- Principais testes de hipóteses (média, proporção e variância)
+
+## 📚 Bibliografia
+
+- BOLFARINE, H & SANDOVAL, M. C. **Introdução à Inferência Estatística**. SBM, Rio de Janeiro, 2001.
+- CASELLA, G; BERGER, R. L. **Inferência Estatística**. Cengage Learning 2010.
+
+## 🏆  Avaliação
+
+### Unidade 1
+
+- Prova 1: 25%
+- Prova 2: 25% 
+- Reposição (Assunto prova 1 e 2): 50% 
+
+### Unidade 2
+
+- Prova 1: 25%
+- Prova 2: 25% 
+- Reposição (Assunto prova 3 e 4) 50% 
+
+
+## ✏️ Materiais/Listas
+
+### Notas de aula
+- [Slides Aula 1](link)
+
+### Listas de exercícios
+- [Lista 1](link)
+
+
+
+:::
+
+
+
+## Inferência Estatística (2025.2 - Noite)
+
+
+::: {.panel-tabset}
+
+## 📊 Informações
+
+**Código:** GRAD.02599 | **Créditos:** 6 | **Carga Horária:** 90h  
+
+**Horário:** Seg (18:00-20:00) | Seg (20:00-22:00) | Sex (18:00-20:00)    
+
+**Sala:** B-208p - CCT - Bloco B
+
+## 📋 Ementa
+
+Introdução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.
+
+## 📖 Conteúdo
+
+### Unidade 1
+- Introdução a inferência estatística
+- População e amostras- Estatísticas e parâmetros 
+- Distribuições amostrais
+- Erro quadrático médio
+- Estimadores não viesados
+- Estimadores eficientes
+- Estatísticas suficientes
+- Famílias exponenciais
+- Métodos de estimação: Método da máxima verossimilhança e Método dos momentos.
+
+### Unidade 2
+- Estimação paramétrica intervalar (método da quantidade pivotal)
+- Intervalos de confiança para uma e duas amostras de populações normais
+- Testes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos. 
+- Principais testes de hipóteses (média, proporção e variância)
+
+## 📚 Bibliografia
+
+- BOLFARINE, H & SANDOVAL, M. C. **Introdução à Inferência Estatística**. SBM, Rio de Janeiro, 2001.
+- CASELLA, G; BERGER, R. L. **Inferência Estatística**. Cengage Learning 2010.
+
+## 🏆  Avaliação
+
+### Unidade 1
+
+- Prova 1: 25%
+- Prova 2: 25% 
+- Reposição (Assunto prova 1 e 2): 50% 
+
+### Unidade 2
+
+- Prova 1: 25%
+- Prova 2: 25% 
+- Reposição (Assunto prova 3 e 4) 50% 
+
+
+## ✏️ Materiais/Listas
+
+### Notas de aula
+- [Slides Aula 1](link)
+
+### Listas de exercícios
+- [Lista 1](link)
+
+
+
+:::
+
+
+
+
+## Séries Temporais (2025.2 - Noite)
+
+
+::: {.panel-tabset}
+
+## 📊 Informações
+
+**Código:** GRAD.00142 | **Créditos:** 4 | **Carga Horária:** 60h  
+
+**Horário:** Quarta (18:00-20:00) | Sexta (20:00-22:00)
+
+**Sala:** Quarta (A-212 - LAB INFO III - CCT - Bloco A) e Sexta (C-110p - CCT - Bloco C)
+
+
+## 📋 Ementa
+
+Introdução séries temporais. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.
+
+## 📖 Conteúdo
+
+### Unidade 1
+- ADD
+
+### Unidade 2
+- ADD
+
+## 📚 Bibliografia
+
+- BOLFARINE, H & SANDOVAL, M. C. **Introdução à Inferência Estatística**. SBM, Rio de Janeiro, 2001.
+- CASELLA, G; BERGER, R. L. **Inferência Estatística**. Cengage Learning 2010.
+
+## 🏆  Avaliação
+
+### Unidade 1
+
+- Atividades: Peso 2
+- Seminários: Peso 8
+- Reposição (Prova todo assunto da unidade 1): Peso 10
+
+### Unidade 2
+
+- Atividades: Peso 2
+- Seminários: Peso 8
+- Reposição (Prova todo assunto da unidade 1): Peso 10
+
+
+
+## ✏️ Materiais/Listas
+
+### Notas de aula
+
+### Aula 1
+
+- [Slides Aula 1](https://rawcdn.githack.com/pedroallmeiida/econometria/main/Aulas/Etapa1/1-introducao_econometria.html)
+
+### Listas de exercícios
+- [Lista 1](link)
+
+### Projetos/Seminários
+- [Projeto 1](link)
+
+:::

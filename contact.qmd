@@ -1,0 +1,50 @@
+---
+title: "Contato"
+---
+
+## Informações de Contato
+
+::: {.grid}
+
+::: {.g-col-6}
+### Endereço Profissional
+**Universidade Estadual da Paraíba**  
+Departamento de Estatística - CCT 
+Campina Grande, Paraíba. 
+:::
+
+::: {.g-col-6}
+### Contato
+**E-mail:** [pedroalmeida@servidor.uepb.edu.br]  
+
+
+**Horário de Atendimento:**  
+Terças-feiras: 14:00-17:00  
+Quintas-feiras: 14:00-17:00
+:::
+
+:::
+
+
+## Redes Sociais e Acadêmicas
+
+- [GitHub](https://github.com/pedroallmeiida)
+- [LinkedIn](https://www.linkedin.com/in/pedro-almeida-1b9676122/)
+
+## Localização
+
+```{r}
+#| echo: false
+
+library(leaflet)
+library(tidygeocoder)
+
+leaflet() %>%
+  addTiles() %>%
+  addMarkers(
+    lng = -35.9209,  # Longitude CORRETA (o anterior estava invertido)
+    lat = -7.2104,   # Latitude CORRETA
+    popup = "UEPB - Campus Bodocongó<br>Av. Baraúnas, 351"
+  ) %>%
+  setView(lng = -35.92087, lat = -7.210453, zoom = 14)
+```

@@ -1,0 +1,79 @@
+---
+title: "Curriculum Vitae"
+format: 
+  html: default
+  pdf: default
+---
+
+## Identificação
+
+**Nome:** Pedro Monteiro de Almeida Junior  
+
+**Lattes:** [http://lattes.cnpq.br/](http://lattes.cnpq.br/7620146467708985)
+
+**ORCID:** [https://orcid.org/](https://orcid.org/0000-0003-0887-1639)  
+
+**Linkedin:** [https://www.linkedin.com/](https://www.linkedin.com/in/pedro-almeida-1b9676122/) 
+
+**Email:** pedroalmeida@servidor.uepb.edu.br
+
+## Formação Acadêmica
+
+### Pós-Graduação
+
+**2018-2021: Doutorado em Estatística**  
+Universidade Federal de Pernambuco (UFPE).  
+
+Título: Processamento de Imagens SAR por estruturas aproximadas do tipo ARMA.
+
+Orientador: Prof. Dr. Abraão David Costa do Nascimento
+
+**2014-2016: Mestrado em Estatística**  
+Universidade Federal de Pernambuco (UFPE)   
+
+Título: Teoria da informação aplicadas a modelos ARMA: Testes para identificação e quantificação de overfitting
+
+Orientador: Prof. Dr. Abraão David Costa do Nascimento
+
+
+### Graduação
+
+**2011-2014: Bacharelado em Estatística**  
+Universidade Federal da Paraíba (UFPB)
+
+## Experiência Profissional
+
+**2022-atual: Estatístico/Cientista de Dados | Coordenador de Soluções Digitais**  
+Capgemini - Experiência do usuário - Projeto Banco do Brasil.
+
+**2025-atual: Professor Adjunto A**  
+UEPB - Departamento de Estatística
+
+**2021-2023: Professor Substituto**  
+UEPB - Departamento de Estatística
+
+**2021-2022:  Estatístico/Cientista de Dados**  
+HARTB - Marketing Analytics | Sistemas de recomendação - Projeto Casas Bahia
+
+**2016-2017: Estatístico/Cientista de Dados**  
+Neurotech - Credit Score - Diversos Clientes 
+
+## Métricas de Produção
+
+```{r}
+#| echo: false
+
+library(DT)
+
+# Resumo da produção científica
+metricas <- data.frame(
+  Categoria = c("Artigos em Periódicos", "Capítulos de Livro", "Trabalhos em Conferências", 
+                "Orientações Mestrado", "Orientações Doutorado", "Projetos Coordenados"),
+  Total = c(10, 0, 0, 0, 0, 2),
+  `Últimos 5 anos` = c(10, 0, 0, 0, 0, 2)
+)
+
+DT::datatable(metricas, options = list(dom = 't'), rownames = FALSE)
+```
+
+---

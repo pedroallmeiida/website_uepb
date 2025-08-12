@@ -1,11 +1,87 @@
 ---
-title: "Econometria"
+title: "Prof. Pedro M. Almeida-Junior"
+subtitle: "Professor & Pesquisador | Departamento de Estatística | UEPB"
+image: figuras/profile2.jpg
+about:
+  template: broadside
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/pedro-almeida-1b9676122/
+    - icon: github
+      text: Github
+      href: https://github.com/pedroallmeiida
+    - icon: envelope
+      text: Email
+      href: mailto:pedroalmeida@servidor.uepb.edu.br
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+## Sobre mim
+
+Sou professor e pesquisador no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB). Atuo também como Estatístico/Cientista de dados na Capgemini Brasil. Gosto de desenvolver pesquisas nas áreas de Regressão e Séries Temporais. Também gosto de atuar no mercado de trabalho desenvolvendo modelos de *Machine Learning*  no setor bancário. 
+
+### Áreas de Interesse
+
+- Estatística Aplicada
+- Séries Temporais
+- Machine Learning
+- Ciência de Dados
+- Sensoriamento Remoto para dados SAR
+- Estatística Espacial 
+
+### Formação
+
+::: {.grid}
+
+::: {.g-col-4}
+**PhD em Estatística**  
+UFPE | 2021
+:::
+
+::: {.g-col-4}
+**Mestrado em Estatística**  
+UFPE | 2016
+:::
+
+::: {.g-col-4}
+**Bacharelado em Estatística**  
+UFPB | 2014
+:::
+
+:::
+
+### Destaques Recentes
 
 ```{r}
-1 + 1
+#| echo: false
+#| warning: false
+library(DT)
+library(dplyr)
+
+# Dados das publicações recentes (você pode carregar de um CSV)
+publicacoes_recentes <- data.frame(
+  Ano = c(2023, 2022, 2021),
+  Titulo = c(
+    "Generalized gamma ARMA process for synthetic aperture radar amplitude and intensity data",
+    "K-Bessel regression model for speckled data", 
+    "ARMA process for speckled data"
+  ),
+  Journal = c("Environmetrics", "JAS", "JSCS"),
+  Impacto = NA
+)
+
+DT::datatable(
+  publicacoes_recentes,
+  options = list(
+    pageLength = 5,
+    dom = 't',
+    columnDefs = list(list(className = 'dt-center', targets = c(0, 3)))
+  ),
+  rownames = FALSE
+)
 ```
+
+---
