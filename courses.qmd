@@ -161,20 +161,86 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 
 ## 📋 Ementa
 
-Introdução séries temporais. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.
+Conceitos básicos de séries temporais. Decomposição de uma série. Médias móveis. Alisamento exponencial. Processos estacionários. Modelos ARMA e ARIMA. Identificação e estimação, Previsão e Diagnóstico do modelo (metodologia BoxJenkins). Séries sazonais aditivas e multiplicativas.
 
 ## 📖 Conteúdo
 
 ### Unidade 1
-- ADD
+
+1.  **Conceitos inicias em séries temporais**
+
+    -   Objetivos de séries temporais
+
+    -   Análise descritiva com séries temporais
+
+    -   Tendência
+
+    -   Sazonalidade
+
+    -   Estacionariedade
+
+    -   exemplos práticos de aplicações em séries temporais
+
+2.  **Modelos de Suavização exponencial**
+
+    -   Médias móveis simples
+
+    -   Suavização exponencial simples
+
+    -   Suavização exponencial de Holt
+
+    -   Suavização exponencial sazonal de Holt-Winters
+
 
 ### Unidade 2
-- ADD
+
+3.  **Modelos AR, MA, ARMA e ARIMA**
+
+    -   Modelos Autoregressivos (AR)
+
+    -   Modelos de médias móveis (MA)
+
+    -   Modelos Autoregressivos e de médias móveis (ARMA)
+
+    -   Modelos Autoregressivos e de médias móveis integrados(ARIMA)
+
+    -  Modelos Sazonais Autoregressivos e de médias móveis integrados(SARIMA)
+
+    -   Identificação das ordens dos modelos
+
+    -   critério para seleção dos modelos
+
+    -   Previsão e medidas de avaliação
+
+    -   diagnóstico dos modelos
+
+    -   Exemplos práticos no R
+
+4.  **Tópicos adicionais**
+
+    -   Modelos de séries temporais não gaussianas (GARMA)
+
+    -   Modelos ARCH e GARCH
+
+    -   Modelos de séries temporais não paramétricos
+
+    -   Exemplos práticos no R
+
+    -   Introdução ao Python e aplicações
+
+
 
 ## 📚 Bibliografia
 
-- BOLFARINE, H & SANDOVAL, M. C. **Introdução à Inferência Estatística**. SBM, Rio de Janeiro, 2001.
-- CASELLA, G; BERGER, R. L. **Inferência Estatística**. Cengage Learning 2010.
+\[1\] SHUMWAY R. H. STOFFER, D. S. **Time series analysis and its applications with R examples**. 3°ed. New York: Springer, 2010.
+
+\[2\] MORETTIN, P.A. **Análise de Séries Temporais**. S. Paulo, Edgard Blucher, 2006.
+
+\[3\] BROCKWELL, P. & DAVIS, R. **Introduction to Time Series and Forecasting**. Springer, 1996.
+
+\[4\] HAMILTON, J.D. **Time Series Analysis**.
+
+\[5\]  ROB J HYNDMAN AND GEORGE ATHANASOPOULOS.  **Forecasting: Principles and Practice (3rd ed)**. Monash University, Australia. [Versão online](https://otexts.com/fpp3/)
 
 ## 🏆  Avaliação
 
@@ -198,7 +264,7 @@ Introdução séries temporais. População e amostra. Estatísticas e Parâmetr
 
 ### Aula 1
 
-- [Slides Aula 1](https://rawcdn.githack.com/pedroallmeiida/econometria/main/Aulas/Etapa1/1-introducao_econometria.html)
+- [Aula 1](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Slides/Aula1_apresentacao_curso.html)
 
 ### Listas de exercícios
 - [Lista 1](link)
