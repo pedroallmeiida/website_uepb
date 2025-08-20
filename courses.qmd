@@ -264,7 +264,9 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 ### Aula 1
 
-- [Aula 1](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Slides/Aula1_apresentacao_curso.html)
+- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/1_apresentacao_curso.html)
+- [Introdução Séries Temporais](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/2_Introducao_Processo_estocastico.html)
+
 
 ### Listas de exercícios
 - [Lista 1](link)
