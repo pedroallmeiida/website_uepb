@@ -264,16 +264,18 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 - [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/1_apresentacao_curso.html)
 - [Introdução Séries Temporais](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/2_Introducao_Processo_estocastico.html)
+- [Modelos de Decomposição e Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/3-Modelos_Suavizacao.html)
 
 ### Exemplos práticos
 
 - [Visualização ST no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/visualizacao_time_series.html)
+- [Modelo de Decomposição](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Exercicio_decomposicao.html)
 
 
 ### Listas de exercícios
-- [Lista 1](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html)
+- [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html)
 
 ### Projetos/Seminários
-- [Projeto 1](link)
+- [](link)
 
 :::
