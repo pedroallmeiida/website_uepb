@@ -72,7 +72,7 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Lista 3: Função Min e Max](materiais/inferencia/lista_funcao_minmax.pdf)
 - [Lista 4: Verossimilhança](materiais/inferencia/lista_verossimilhanca.pdf)
 - [Lista 5: Viés e EQM](materiais/inferencia/Lista_vies_eqm.pdf)
-- [Lista 6: Viés e EQM](materiais/inferencia/lista_eficiencia.pdf.pdf)
+- [Lista 6: Eficiencia](materiais/inferencia/lista_eficiencia.pdf.pdf)
 
 
 
@@ -151,7 +151,7 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Lista 3: Função Min e Max](materiais/inferencia/lista_funcao_minmax.pdf)
 - [Lista 4: Verossimilhança](materiais/inferencia/lista_verossimilhanca.pdf)
 - [Lista 5: Viés e EQM](materiais/inferencia/Lista_vies_eqm.pdf)
-- [Lista 6: Viés e EQM](materiais/inferencia/lista_eficiencia.pdf.pdf)
+- [Lista 6: Eficiencia](materiais/inferencia/lista_eficiencia.pdf.pdf)
 
 
 :::
