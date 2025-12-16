@@ -62,7 +62,13 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 
 ### Notas de aula
 - [Revisão Cálculo](materiais/inferencia/revisao_calculo_inferencia.html)
+- [Conceitos Iniciais](materiais/inferencia/Aula1_revisao_conceitos.pdf)
+- [Viés e EQM](materiais/inferencia/Aula2_Estimacao_Vies_EQM.pdf)
 - [Eficiência estatística](materiais/inferencia/Aula3_Eficiencia.pdf)
+
+### Exemplos no R 
+- [Comparação de estimadores](materiais/inferencia/exemplos_r/exemplo_comparacao_eqm.R)
+- [Comparação de estimadores para a variância](materiais/inferencia/exemplos_r/estimadores_variancia.R)
 
 
 ### Listas de exercícios
@@ -141,7 +147,14 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 
 ### Notas de aula
 - [Revisão Cálculo](materiais/inferencia/revisao_calculo_inferencia.html)
+- [Conceitos Iniciais](materiais/inferencia/Aula1_revisao_conceitos.pdf)
+- [Viés e EQM](materiais/inferencia/Aula2_Estimacao_Vies_EQM.pdf)
 - [Eficiência estatística](materiais/inferencia/Aula3_Eficiencia.pdf)
+
+
+### Exemplos no R 
+- [Comparação de estimadores](materiais/inferencia/exemplos_r/exemplo_comparacao_eqm.R)
+- [Comparação de estimadores para a variância](materiais/inferencia/exemplos_r/estimadores_variancia.R)
 
 
 ### Listas de exercícios
@@ -285,12 +298,13 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 - [Visualização ST no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/visualizacao_time_series.html)
 - [Modelo de Decomposição](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Exercicio_decomposicao.html)
 - [Médias Móveis no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_medias_moveis.html)
+- [Forecast no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_forecast.R)
 
 
 ### Listas de exercícios
-- [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) <span style="color:red">ENTREGA FINAL: 05/09</span>
+- [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) <span style="color:red">ENTREGA FINAL: 17/12/2025</span>
 
 ### Projetos/Seminários
-- [](link)
+- [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) <span style="color:blue">ENTREGA FINAL: 11/02/2026</span>
 
 :::
