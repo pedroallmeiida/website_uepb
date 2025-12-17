@@ -26,7 +26,7 @@ O projeto deve seguir as seguintes diretrizes:
 
 A seguir vamos apresentar as distribuições e estimadores que deverão ser usados no estudo por cada aluno. 
 
-### Aluno 1
+### Ray
 
 - Sejam $X_1, \ldots, X_n$ variáveis aleatórias i.i.d. com distribuição de Bernoulli, ou seja, $X_i \sim \text{Bernoulli}(p)$, com $0 < p < 1$. Considere para o estudo os seguintes estimadores para o parâmetro $p$:
 
@@ -35,7 +35,7 @@ $$
 $$
 	
 	
-### Aluno 2
+### Lucas
 
 - Sejam $X_1, \ldots, X_n$ variáveis aleatórias i.i.d. com distribuição Exponencial($\lambda$), com função densidade dada por  com $\lambda > 0$. Considere para o estudo os seguintes estimadores para o parâmetro $\frac{1}{\lambda}$:
 
@@ -44,7 +44,7 @@ $$
 $$
 	
 
-### Aluno 3
+### Gabriel
 
 - Sejam $X_1, \ldots, X_n$ variáveis aleatórias i.i.d. com distribuição Normal($\mu$, $\sigma^2 = 10$), com $-\infty < \theta < \infty$. Considere para o estudo os seguintes estimadores para o parâmetro $\mu$:
 
@@ -53,7 +53,7 @@ $$
 $$
 
 
-### Aluno 4
+### Anatalia
 
 - Sejam $X_1, \ldots, X_n$ variáveis aleatórias i.i.d. com distribuição Uniforme($0, \theta$), com $0 < \theta < \infty$. Considere para o estudo os seguintes estimadores para o parâmetro $\theta$:
 
@@ -62,7 +62,7 @@ $$
 $$
 
 
-### Aluno 5
+### Vanessa
 
 - Sejam $X_1, \ldots, X_n$ variáveis aleatórias i.i.d. com distribuição Poisson($\lambda$), com $\lambda > 0$. Considere para o estudo os seguintes estimadores para o parâmetro $\lambda$:
 
