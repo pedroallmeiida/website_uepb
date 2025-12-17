@@ -80,8 +80,8 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Lista 5: Viés e EQM](materiais/inferencia/Lista_vies_eqm.pdf)
 - [Lista 6: Eficiencia](materiais/inferencia/lista_eficiencia.pdf)
 
-
-
+### Projetos/Seminários
+- [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm.md) <span style="color:blue">ENTREGA FINAL: 06/02/2026</span>
 
 :::
 
@@ -166,6 +166,8 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Lista 5: Viés e EQM](materiais/inferencia/Lista_vies_eqm.pdf)
 - [Lista 6: Eficiencia](materiais/inferencia/lista_eficiencia.pdf)
 
+### Projetos/Seminários
+- [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm.md) <span style="color:blue">ENTREGA FINAL: 06/02/2026</span>
 
 :::
 
