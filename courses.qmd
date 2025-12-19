@@ -65,6 +65,7 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Conceitos Iniciais](materiais/inferencia/Aula1_revisao_conceitos.pdf)
 - [Viés e EQM](materiais/inferencia/Aula2_Estimacao_Vies_EQM.pdf)
 - [Eficiência estatística](materiais/inferencia/Aula3_Eficiencia.pdf)
+- [Exemplo: Eficiência estatística](materiais/inferencia/exemplos/exemplo_estimador_eficiente.pdf)
 
 ### Exemplos no R 
 - [Comparação de estimadores](materiais/inferencia/exemplos_r/exemplo_comparacao_eqm.R)
@@ -81,7 +82,7 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Lista 6: Eficiencia](materiais/inferencia/lista_eficiencia.pdf)
 
 ### Projetos/Seminários
-- [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_manha.md) <span style="color:blue">ENTREGA FINAL: 06/02/2026</span>
+- [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_manha.md) <span style="color:blue"> ENTREGA FINAL: 06/02/2026</span>
 
 :::
 
@@ -150,7 +151,7 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Conceitos Iniciais](materiais/inferencia/Aula1_revisao_conceitos.pdf)
 - [Viés e EQM](materiais/inferencia/Aula2_Estimacao_Vies_EQM.pdf)
 - [Eficiência estatística](materiais/inferencia/Aula3_Eficiencia.pdf)
-
+- [Exemplo: Eficiência estatística](materiais/inferencia/exemplos/exemplo_estimador_eficiente.pdf)
 
 ### Exemplos no R 
 - [Comparação de estimadores](materiais/inferencia/exemplos_r/exemplo_comparacao_eqm.R)
@@ -304,7 +305,7 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 
 ### Listas de exercícios
-- [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) <span style="color:red">ENTREGA FINAL: 17/12/2025</span>
+- [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) <span style="color:red"> ENTREGA FINAL: 17/12/2025</span>
 
 ### Projetos/Seminários
 - [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) <span style="color:blue">ENTREGA FINAL: 11/02/2026</span>
