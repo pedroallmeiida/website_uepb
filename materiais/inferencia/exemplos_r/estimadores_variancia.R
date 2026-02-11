@@ -3,11 +3,12 @@
 set.seed(2025)
 
 ## Definindo a quantidade de repetições monte carlo
-B <- 1000
+B <- 10000
 
 ## Defindo o valor verdadeiro de theta para simular
 sigma2 <- 2
 mu <- 10
+
 
 ## criando vetores nulos numericos 
 sigma2_hat<- numeric(B)
@@ -16,14 +17,13 @@ s2_hat <- numeric(B)
 
 ## simulacao MC 
 
-n=3
+n=10
 
 for (b in 1:B) {
   x <- rnorm(n, mean = mu, sd = sqrt(sigma2) )
   sigma2_hat[b] <- sum( ( x - mean(x) )^2 )/n
   s2_hat[b] <- sum( ( x - mean(x) )^2 )/(n-1)
 }
-
 
 
 library(ggplot2)
@@ -83,7 +83,7 @@ mean((s2_hat - sigma2)^2)
 
 set.seed(2025)
 
-B <- 1000
+B <- 10000
 mu <- 10
 sigma2 <- 2
 
@@ -134,7 +134,7 @@ for (n in ns) {
   )
 }
 
-
+library(dplyr)
 
 resultados %>%
   mutate(

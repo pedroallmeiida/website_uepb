@@ -66,6 +66,11 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Viés e EQM](materiais/inferencia/Aula2_Estimacao_Vies_EQM.pdf)
 - [Eficiência estatística](materiais/inferencia/Aula3_Eficiencia.pdf)
 - [Exemplo: Eficiência estatística](materiais/inferencia/exemplos/exemplo_estimador_eficiente.pdf)
+- [Conceito de Suficiencia](materiais/inferencia/Aula4_Consistencia_Suficiencia.pdf)
+- [Família Exponencial](materiais/inferencia/Aula5_Familia_exponencial.pdf)
+- [Teorema de Rao-Blackwell](materiais/inferencia/Aula6_Estimadores_baseados_estatisticas_suficientes.pdf)
+- [Estimaçao](materiais/inferencia/Aula7_Metodos_Estimacao.pdf)
+
 
 ### Exemplos no R 
 - [Comparação de estimadores](materiais/inferencia/exemplos_r/exemplo_comparacao_eqm.R)
@@ -80,9 +85,12 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Lista 4: Verossimilhança](materiais/inferencia/lista_verossimilhanca.pdf)
 - [Lista 5: Viés e EQM](materiais/inferencia/Lista_vies_eqm.pdf)
 - [Lista 6: Eficiencia](materiais/inferencia/lista_eficiencia.pdf)
+- [Lista 7: Suficiencia](materiais/inferencia/lista_suficiencia_cf.pdf)
+- [Lista 8: Família Exponencial](materiais/inferencia/lista_familia_exp.pdf)
+- [Lista 9: Estimação](materiais/inferencia/lista_estimacao.pdf)
 
 ### Projetos/Seminários
-- [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_manha.md) <span style="color:blue"> ENTREGA FINAL: 06/02/2026</span>
+- [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_manha.md) <span style="color:blue"> </span>
 
 :::
 
@@ -152,6 +160,10 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Viés e EQM](materiais/inferencia/Aula2_Estimacao_Vies_EQM.pdf)
 - [Eficiência estatística](materiais/inferencia/Aula3_Eficiencia.pdf)
 - [Exemplo: Eficiência estatística](materiais/inferencia/exemplos/exemplo_estimador_eficiente.pdf)
+- [Conceito de Suficiencia](materiais/inferencia/Aula4_Consistencia_Suficiencia.pdf)
+- [Família Exponencial](materiais/inferencia/Aula5_Familia_exponencial.pdf)
+- [Teorema de Rao-Blackwell](materiais/inferencia/Aula6_Estimadores_baseados_estatisticas_suficientes.pdf)
+- [Estimaçao](materiais/inferencia/Aula7_Metodos_Estimacao.pdf)
 
 ### Exemplos no R 
 - [Comparação de estimadores](materiais/inferencia/exemplos_r/exemplo_comparacao_eqm.R)
@@ -166,9 +178,13 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Lista 4: Verossimilhança](materiais/inferencia/lista_verossimilhanca.pdf)
 - [Lista 5: Viés e EQM](materiais/inferencia/Lista_vies_eqm.pdf)
 - [Lista 6: Eficiencia](materiais/inferencia/lista_eficiencia.pdf)
+- [Lista 7: Suficiencia](materiais/inferencia/lista_suficiencia_cf.pdf)
+- [Lista 8: Família Exponencial](materiais/inferencia/lista_familia_exp.pdf)
+- [Lista 9: Estimação](materiais/inferencia/lista_estimacao.pdf)
+
 
 ### Projetos/Seminários
-- [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_noite.md) <span style="color:blue">ENTREGA FINAL: 06/02/2026</span>
+- [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_noite.md) <span style="color:blue"></span>
 
 :::
 
@@ -308,6 +324,6 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 - [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) <span style="color:red"> ENTREGA FINAL: 17/12/2025</span>
 
 ### Projetos/Seminários
-- [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) <span style="color:blue">ENTREGA FINAL: 11/02/2026</span>
+- [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) <span style="color:blue"></span>
 
 :::
