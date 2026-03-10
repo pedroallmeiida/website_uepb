@@ -329,10 +329,11 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 - [Modelo de Decomposição](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Exercicio_decomposicao.html)
 - [Médias Móveis no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_medias_moveis.html)
 - [Forecast no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_forecast.R)
+- [ARIMA no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/exemplo_ARIMA.html)
 
 ### Exemplos teóricos 
-- [Forecast no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Processo_ar1.html)
-- [Forecast no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/processos.html)
+- [Processo AR(1)](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Processo_ar1.html)
+- [Processo Estacionários](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/processos.html)
 
 
 ### Listas de exercícios
