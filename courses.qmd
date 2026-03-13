@@ -70,7 +70,8 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Família Exponencial](materiais/inferencia/Aula5_Familia_exponencial.pdf)
 - [Teorema de Rao-Blackwell](materiais/inferencia/Aula6_Estimadores_baseados_estatisticas_suficientes.pdf)
 - [Estimaçao](materiais/inferencia/Aula7_Metodos_Estimacao.pdf)
-
+- [Estimaçao Intervalar](materiais/inferencia/Aula8_Intervalo_confianca.pdf)
+- [Testes de Hipóteses](materiais/inferencia/Aula9_Testes_de_hipoteses.pdf)
 
 ### Exemplos no R 
 - [Comparação de estimadores](materiais/inferencia/exemplos_r/exemplo_comparacao_eqm.R)
@@ -88,6 +89,8 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Lista 7: Suficiencia](materiais/inferencia/lista_suficiencia_cf.pdf)
 - [Lista 8: Família Exponencial](materiais/inferencia/lista_familia_exp.pdf)
 - [Lista 9: Estimação](materiais/inferencia/lista_estimacao.pdf)
+- [Lista 10: Estimação Intervalar](materiais/inferencia/lista_ic.pdf)
+- [Lista 11: Testes de Hipóteses](materiais/inferencia/lista_teste_hipotese.pdf)
 
 ### Projetos/Seminários
 - [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_manha.md) <span style="color:blue"> </span>
@@ -164,6 +167,8 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Família Exponencial](materiais/inferencia/Aula5_Familia_exponencial.pdf)
 - [Teorema de Rao-Blackwell](materiais/inferencia/Aula6_Estimadores_baseados_estatisticas_suficientes.pdf)
 - [Estimaçao](materiais/inferencia/Aula7_Metodos_Estimacao.pdf)
+- [Estimaçao Intervalar](materiais/inferencia/Aula8_Intervalo_confianca.pdf)
+- [Testes de Hipóteses](materiais/inferencia/Aula9_Testes_de_hipoteses.pdf)
 
 ### Exemplos no R 
 - [Comparação de estimadores](materiais/inferencia/exemplos_r/exemplo_comparacao_eqm.R)
@@ -181,6 +186,8 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 - [Lista 7: Suficiencia](materiais/inferencia/lista_suficiencia_cf.pdf)
 - [Lista 8: Família Exponencial](materiais/inferencia/lista_familia_exp.pdf)
 - [Lista 9: Estimação](materiais/inferencia/lista_estimacao.pdf)
+- [Lista 10: Estimação Intervalar](materiais/inferencia/lista_ic.pdf)
+- [Lista 11: Testes de Hipóteses](materiais/inferencia/lista_teste_hipotese.pdf)
 
 
 ### Projetos/Seminários
@@ -337,7 +344,7 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 
 ### Listas de exercícios
-- [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) <span style="color:red"> ENTREGA FINAL: 17/12/2025</span>
+- [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) 
 
 ### Projetos/Seminários
 - [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) <span style="color:blue"></span>
