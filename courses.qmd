@@ -94,6 +94,7 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 
 ### Projetos/Seminários
 - [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_manha.md) <span style="color:blue"> </span>
+- [Projeto 2 - IC e Teste de Hipóteses](materiais/inferencia/Projeto/projeto2_ic_teste.md.md) <span style="color:blue"></span>
 
 :::
 
@@ -192,6 +193,7 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 
 ### Projetos/Seminários
 - [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_noite.md) <span style="color:blue"></span>
+- [Projeto 2 - IC e Teste de Hipóteses](materiais/inferencia/Projeto/projeto2_ic_teste.md.md) <span style="color:blue"></span>
 
 :::
 
@@ -327,6 +329,9 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 - [Modelos da classe ARMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/4-Modelos_ARMA.html)
 - [Modelos da classe ARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/5-Modelos_ARIMA.html)
 - [Modelos da classe SARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/6-Modelos_SARIMA.html)
+- [Modelos da classe ARCH e GARCH](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/7-Modelos_ARCH_GARCH.html)
+- [Combinação de modelos](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Combinacao_modelos.html)
+- [Outliers em ST](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/outliers.html)
 
 
 
@@ -336,7 +341,13 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 - [Modelo de Decomposição](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Exercicio_decomposicao.html)
 - [Médias Móveis no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_medias_moveis.html)
 - [Forecast no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_forecast.R)
+- [Comportamento ACF/PACF no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/comportamento_acf_processos_estocasticos.R)
 - [ARIMA no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/exemplo_ARIMA.html)
+- [SARIMA no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/Exemplo_SARIMA.html)
+- [ARCH/GARCH no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/Exemplo_GARCH.R)
+
+
+
 
 ### Exemplos teóricos 
 - [Processo AR(1)](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Processo_ar1.html)
@@ -347,6 +358,6 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 - [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) 
 
 ### Projetos/Seminários
-- [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) <span style="color:blue"></span>
+- [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) 
 
 :::
