@@ -359,5 +359,6 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 ### Projetos/Seminários
 - [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) 
+- [Projeto 2 - Modelos de ARIMA e SARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_2.html) 
 
 :::
