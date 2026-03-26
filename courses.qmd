@@ -330,8 +330,10 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 - [Modelos da classe ARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/5-Modelos_ARIMA.html)
 - [Modelos da classe SARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/6-Modelos_SARIMA.html)
 - [Modelos da classe ARCH e GARCH](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/7-Modelos_ARCH_GARCH.html)
+- [STL](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/8-sazonalidade_complexa.html)
 - [Combinação de modelos](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Combinacao_modelos.html)
 - [Outliers em ST](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/outliers.html)
+- [Bootstrap em ST](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/bootstrap.html)
 
 
 
