@@ -43,14 +43,14 @@ A avaliação final serrá composta por:
 ## Intervalo de Confiança 
 
 - **Anatalia:** Intervalo de Confiança para média com variância conhecida (uma e duas amostras independentes)
-- **Wanessa:** Intervalo de Confiança para média com variância desconhecida (uma e duas amostras independentes)
+- **Vanessa:** Intervalo de Confiança para média com variância desconhecida (uma e duas amostras independentes)
 - **Ray:** Intervalo de Confiança para proporção (uma e duas amostras independentes)
 - **Lucas:** Intervalo de Confiança assintótico para estimadores de MV  (uma amostra)
 
 ## Testes de Hipóteses
 
 - **Anatalia:** Testes de Hipóteses para média com variância conhecida (uma e duas amostras independentes)
-- **Wanessa:** Testes de Hipóteses para média com variância desconhecida (uma e duas amostras independentes)
+- **Vanessa:** Testes de Hipóteses para média com variância desconhecida (uma e duas amostras independentes)
 - **Ray:** Testes de Hipóteses para proporção (uma e duas amostras independentes)
 - **Lucas:** Testes de Hipóteses assintótico para estimadores de MV  (uma e duas amostras independentes)
 
