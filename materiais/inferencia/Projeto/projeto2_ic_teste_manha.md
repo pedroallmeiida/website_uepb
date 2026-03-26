@@ -20,22 +20,36 @@ Nesse projeto vamos avaliar os principais Intervalos de confiança e testes de h
 - Para testes de Hipóteses: Descrever com detalhes o Teste de Hipótese utilizado. Apresentando as hipóteses nulas, estatísticas do teste e sua distribuição amostral, região crítica, e conclusão do teste. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo do teste, apresentando todos os cálculos. 
 
 
-
-
 ## Parte prática
 
 - Introdução sobre o problema que você irá resolver. 
     
-- Para intervalo de confiança (IC): Apresentar no R os códigos para calcular o Intervalo. Aplicar em uma situação prática.  
+- Para intervalo de confiança (IC): Apresentar no R os códigos para calcular o Intervalo. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência.  
 
-- Para testes de Hipóteses: Apresentar no R os códigos para realizar o teste de hipótese de interesse. Aplicar em uma situação prática.  
+- Para testes de Hipóteses: Apresentar no R os códigos para realizar o teste de hipótese de interesse. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência.  
 
 
 ## Avaliação final
 
 A avaliação final serrá composta por:
 
-
 - Qualidade do relatório
-- Organização dos códigos
+- Organização dos códigos em R
 - Apresentação do seminário.  
+
+
+# Tópicos de IC e Testes de Hipóteses
+
+## Intervalo de Confiança 
+
+- **Dinah:** Intervalo de Confiança para média com variância conhecida (uma e duas amostras independentes)
+- **Alice:** Intervalo de Confiança para média com variância desconhecida (uma e duas amostras independentes)
+- **Filipe:** Intervalo de Confiança para proporção (uma e duas amostras independentes)
+
+## Testes de Hipóteses
+
+- **Dinah:** Testes de Hipóteses para média com variância conhecida (uma e duas amostras independentes)
+- **Alice:** Testes de Hipóteses para média com variância desconhecida (uma e duas amostras independentes)
+- **Filipe:** Testes de Hipóteses para proporção (uma e duas amostras independentes)
+
+

@@ -477,7 +477,7 @@
     "href": "materiais/inferencia/Projeto/projeto2_ic_teste.html",
     "title": "Projeto 2",
     "section": "",
-    "text": "Nesse projeto vamos avaliar os principais Intervalos de confiança e testes de hipóteses. Dessa forma, a seguir vamos apresentar as diretrizes para o projeto.\n\n\n\nIntrodução sobre o tema do projeto. Introduzir os assuntos abordados.\nPara intervalo de confiança (IC): Descrever a construção de IC pelo método da quantidade pivotal para o seu caso. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo da construção do IC, apresentando todos os cálculos.\nPara testes de Hipóteses: Descrever com detalhes o Teste de Hipótese utilizado. Apresentando as hipóteses nulas, estatísticas do teste e sua distribuição amostral, região crítica, e conclusão do teste. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo do teste, apresentando todos os cálculos.\n\n\n\n\n\nIntrodução sobre o problema que você irá resolver.\nPara intervalo de confiança (IC): Apresentar no R os códigos para calcular o Intervalo. Aplicar em uma situação prática.\nPara testes de Hipóteses: Apresentar no R os códigos para realizar o teste de hipótese de interesse. Aplicar em uma situação prática.\n\n\n\n\nA avaliação final serrá composta por:\n\nQualidade do relatório\nOrganização dos códigos\nApresentação do seminário."
+    "text": "Nesse projeto vamos avaliar os principais Intervalos de confiança e testes de hipóteses. Dessa forma, a seguir vamos apresentar as diretrizes para o projeto.\n\n\n\nIntrodução sobre o tema do projeto. Introduzir os assuntos abordados.\nPara intervalo de confiança (IC): Descrever a construção de IC pelo método da quantidade pivotal para o seu caso. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo da construção do IC, apresentando todos os cálculos.\nPara testes de Hipóteses: Descrever com detalhes o Teste de Hipótese utilizado. Apresentando as hipóteses nulas, estatísticas do teste e sua distribuição amostral, região crítica, e conclusão do teste. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo do teste, apresentando todos os cálculos.\n\n\n\n\n\nIntrodução sobre o problema que você irá resolver.\nPara intervalo de confiança (IC): Apresentar no R os códigos para calcular o Intervalo. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência.\nPara testes de Hipóteses: Apresentar no R os códigos para realizar o teste de hipótese de interesse. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência.\n\n\n\n\nA avaliação final serrá composta por:\n\nQualidade do relatório\nOrganização dos códigos em R\nApresentação do seminário."
   },
   {
     "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste.html#diretrizes",
@@ -505,13 +505,118 @@
     "href": "materiais/inferencia/Projeto/projeto2_ic_teste.html#parte-prática",
     "title": "Projeto 2",
     "section": "",
-    "text": "Introdução sobre o problema que você irá resolver.\nPara intervalo de confiança (IC): Apresentar no R os códigos para calcular o Intervalo. Aplicar em uma situação prática.\nPara testes de Hipóteses: Apresentar no R os códigos para realizar o teste de hipótese de interesse. Aplicar em uma situação prática."
+    "text": "Introdução sobre o problema que você irá resolver.\nPara intervalo de confiança (IC): Apresentar no R os códigos para calcular o Intervalo. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência.\nPara testes de Hipóteses: Apresentar no R os códigos para realizar o teste de hipótese de interesse. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência."
   },
   {
     "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste.html#avaliação-final",
     "href": "materiais/inferencia/Projeto/projeto2_ic_teste.html#avaliação-final",
     "title": "Projeto 2",
     "section": "",
-    "text": "A avaliação final serrá composta por:\n\nQualidade do relatório\nOrganização dos códigos\nApresentação do seminário."
+    "text": "A avaliação final serrá composta por:\n\nQualidade do relatório\nOrganização dos códigos em R\nApresentação do seminário."
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste.html#ic",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste.html#ic",
+    "title": "Projeto 2",
+    "section": "IC",
+    "text": "IC\n\nAnatalia: Intervalo de Confiança para média com variância conhecida (uma e duas amostras independentes)\nWanessa: Intervalo de Confiança para média com variância desconhecida (uma e duas amostras independentes)\nRay: Intervalo de Confiança para proporção (uma e duas amostras independentes)\nLucas: Intervalo de Confiança assintótico para estimadores de MV (uma amostra)"
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste.html#testes-de-hipóteses",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste.html#testes-de-hipóteses",
+    "title": "Projeto 2",
+    "section": "Testes de Hipóteses",
+    "text": "Testes de Hipóteses\n\nAnatalia: Testes de Hipóteses para média com variância conhecida (uma e duas amostras independentes)\nWanessa: Testes de Hipóteses para média com variância desconhecida (uma e duas amostras independentes)\nRay: Testes de Hipóteses para proporção (uma e duas amostras independentes)\nLucas: Testes de Hipóteses assintótico para estimadores de MV (uma e duas amostras independentes)"
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste.html#intervalo-de-confiança",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste.html#intervalo-de-confiança",
+    "title": "Projeto 2",
+    "section": "Intervalo de Confiança",
+    "text": "Intervalo de Confiança\n\nAnatalia: Intervalo de Confiança para média com variância conhecida (uma e duas amostras independentes)\nWanessa: Intervalo de Confiança para média com variância desconhecida (uma e duas amostras independentes)\nRay: Intervalo de Confiança para proporção (uma e duas amostras independentes)\nLucas: Intervalo de Confiança assintótico para estimadores de MV (uma amostra)"
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html",
+    "title": "Projeto 2",
+    "section": "",
+    "text": "Nesse projeto vamos avaliar os principais Intervalos de confiança e testes de hipóteses. Dessa forma, a seguir vamos apresentar as diretrizes para o projeto.\n\n\n\nIntrodução sobre o tema do projeto. Introduzir os assuntos abordados.\nPara intervalo de confiança (IC): Descrever a construção de IC pelo método da quantidade pivotal para o seu caso. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo da construção do IC, apresentando todos os cálculos.\nPara testes de Hipóteses: Descrever com detalhes o Teste de Hipótese utilizado. Apresentando as hipóteses nulas, estatísticas do teste e sua distribuição amostral, região crítica, e conclusão do teste. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo do teste, apresentando todos os cálculos.\n\n\n\n\n\nIntrodução sobre o problema que você irá resolver.\nPara intervalo de confiança (IC): Apresentar no R os códigos para calcular o Intervalo. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência.\nPara testes de Hipóteses: Apresentar no R os códigos para realizar o teste de hipótese de interesse. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência.\n\n\n\n\nA avaliação final serrá composta por:\n\nQualidade do relatório\nOrganização dos códigos em R\nApresentação do seminário."
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html#parte-teórica",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html#parte-teórica",
+    "title": "Projeto 2",
+    "section": "",
+    "text": "Introdução sobre o tema do projeto. Introduzir os assuntos abordados.\nPara intervalo de confiança (IC): Descrever a construção de IC pelo método da quantidade pivotal para o seu caso. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo da construção do IC, apresentando todos os cálculos.\nPara testes de Hipóteses: Descrever com detalhes o Teste de Hipótese utilizado. Apresentando as hipóteses nulas, estatísticas do teste e sua distribuição amostral, região crítica, e conclusão do teste. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo do teste, apresentando todos os cálculos."
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html#parte-prática",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html#parte-prática",
+    "title": "Projeto 2",
+    "section": "",
+    "text": "Introdução sobre o problema que você irá resolver.\nPara intervalo de confiança (IC): Apresentar no R os códigos para calcular o Intervalo. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência.\nPara testes de Hipóteses: Apresentar no R os códigos para realizar o teste de hipótese de interesse. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência."
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html#avaliação-final",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html#avaliação-final",
+    "title": "Projeto 2",
+    "section": "",
+    "text": "A avaliação final serrá composta por:\n\nQualidade do relatório\nOrganização dos códigos em R\nApresentação do seminário."
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html#intervalo-de-confiança",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html#intervalo-de-confiança",
+    "title": "Projeto 2",
+    "section": "Intervalo de Confiança",
+    "text": "Intervalo de Confiança\n\nDinah: Intervalo de Confiança para média com variância conhecida (uma e duas amostras independentes)\nAlice: Intervalo de Confiança para média com variância desconhecida (uma e duas amostras independentes)\nFilipe: Intervalo de Confiança para proporção (uma e duas amostras independentes)"
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html#testes-de-hipóteses",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_manha.html#testes-de-hipóteses",
+    "title": "Projeto 2",
+    "section": "Testes de Hipóteses",
+    "text": "Testes de Hipóteses\n\nDinah: Testes de Hipóteses para média com variância conhecida (uma e duas amostras independentes)\nAlice: Testes de Hipóteses para média com variância desconhecida (uma e duas amostras independentes)\nFilipe: Testes de Hipóteses para proporção (uma e duas amostras independentes)"
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html",
+    "title": "Projeto 2",
+    "section": "",
+    "text": "Nesse projeto vamos avaliar os principais Intervalos de confiança e testes de hipóteses. Dessa forma, a seguir vamos apresentar as diretrizes para o projeto.\n\n\n\nIntrodução sobre o tema do projeto. Introduzir os assuntos abordados.\nPara intervalo de confiança (IC): Descrever a construção de IC pelo método da quantidade pivotal para o seu caso. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo da construção do IC, apresentando todos os cálculos.\nPara testes de Hipóteses: Descrever com detalhes o Teste de Hipótese utilizado. Apresentando as hipóteses nulas, estatísticas do teste e sua distribuição amostral, região crítica, e conclusão do teste. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo do teste, apresentando todos os cálculos.\n\n\n\n\n\nIntrodução sobre o problema que você irá resolver.\nPara intervalo de confiança (IC): Apresentar no R os códigos para calcular o Intervalo. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência.\nPara testes de Hipóteses: Apresentar no R os códigos para realizar o teste de hipótese de interesse. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência.\n\n\n\n\nA avaliação final serrá composta por:\n\nQualidade do relatório\nOrganização dos códigos em R\nApresentação do seminário."
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html#parte-teórica",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html#parte-teórica",
+    "title": "Projeto 2",
+    "section": "",
+    "text": "Introdução sobre o tema do projeto. Introduzir os assuntos abordados.\nPara intervalo de confiança (IC): Descrever a construção de IC pelo método da quantidade pivotal para o seu caso. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo da construção do IC, apresentando todos os cálculos.\nPara testes de Hipóteses: Descrever com detalhes o Teste de Hipótese utilizado. Apresentando as hipóteses nulas, estatísticas do teste e sua distribuição amostral, região crítica, e conclusão do teste. Apresentar um exemplo a partir da lista de exercicio e explicar todo o passo a passo do teste, apresentando todos os cálculos."
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html#parte-prática",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html#parte-prática",
+    "title": "Projeto 2",
+    "section": "",
+    "text": "Introdução sobre o problema que você irá resolver.\nPara intervalo de confiança (IC): Apresentar no R os códigos para calcular o Intervalo. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência.\nPara testes de Hipóteses: Apresentar no R os códigos para realizar o teste de hipótese de interesse. Aplicar em uma situação prática. Escolha um banco de dados de sua preferência."
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html#avaliação-final",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html#avaliação-final",
+    "title": "Projeto 2",
+    "section": "",
+    "text": "A avaliação final serrá composta por:\n\nQualidade do relatório\nOrganização dos códigos em R\nApresentação do seminário."
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html#intervalo-de-confiança",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html#intervalo-de-confiança",
+    "title": "Projeto 2",
+    "section": "Intervalo de Confiança",
+    "text": "Intervalo de Confiança\n\nAnatalia: Intervalo de Confiança para média com variância conhecida (uma e duas amostras independentes)\nWanessa: Intervalo de Confiança para média com variância desconhecida (uma e duas amostras independentes)\nRay: Intervalo de Confiança para proporção (uma e duas amostras independentes)\nLucas: Intervalo de Confiança assintótico para estimadores de MV (uma amostra)"
+  },
+  {
+    "objectID": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html#testes-de-hipóteses",
+    "href": "materiais/inferencia/Projeto/projeto2_ic_teste_noite.html#testes-de-hipóteses",
+    "title": "Projeto 2",
+    "section": "Testes de Hipóteses",
+    "text": "Testes de Hipóteses\n\nAnatalia: Testes de Hipóteses para média com variância conhecida (uma e duas amostras independentes)\nWanessa: Testes de Hipóteses para média com variância desconhecida (uma e duas amostras independentes)\nRay: Testes de Hipóteses para proporção (uma e duas amostras independentes)\nLucas: Testes de Hipóteses assintótico para estimadores de MV (uma e duas amostras independentes)"
   }
 ]

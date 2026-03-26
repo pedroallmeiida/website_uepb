@@ -94,7 +94,7 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 
 ### Projetos/Seminários
 - [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_manha.md) <span style="color:blue"> </span>
-- [Projeto 2 - IC e Teste de Hipóteses](materiais/inferencia/Projeto/projeto2_ic_teste.md.md) <span style="color:blue"></span>
+- [Projeto 2 - IC e Teste de Hipóteses](materiais/inferencia/Projeto/projeto2_ic_teste_manha.md) <span style="color:blue"></span>
 
 :::
 
@@ -193,7 +193,7 @@ Introdução inferência estatística. População e amostra. Estatísticas e Pa
 
 ### Projetos/Seminários
 - [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_noite.md) <span style="color:blue"></span>
-- [Projeto 2 - IC e Teste de Hipóteses](materiais/inferencia/Projeto/projeto2_ic_teste.md.md) <span style="color:blue"></span>
+- [Projeto 2 - IC e Teste de Hipóteses](materiais/inferencia/Projeto/projeto2_ic_teste_noite.md) <span style="color:blue"></span>
 
 :::
 
