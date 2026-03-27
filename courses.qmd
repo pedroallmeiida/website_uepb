@@ -349,8 +349,6 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 - [ARCH/GARCH no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/Exemplo_GARCH.R)
 
 
-
-
 ### Exemplos teóricos 
 - [Processo AR(1)](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Processo_ar1.html)
 - [Processo Estacionários](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/processos.html)
