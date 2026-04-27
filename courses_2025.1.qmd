@@ -1,0 +1,364 @@
+---
+title: "Disciplinas"
+---
+
+## Inferência Estatística (2025.2 - Manhã)
+
+
+::: {.panel-tabset}
+
+## 📊 Informações
+
+**Código:** GRAD.02599 | **Créditos:** 6 | **Carga Horária:** 90h  
+
+**Horário:** Quarta e Sexta, 09:00-12:00  
+
+**Sala:** A-116p - CCT - Bloco A
+
+## 📋 Ementa
+
+Introdução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.
+
+## 📖 Conteúdo
+
+### Unidade 1
+- Introdução a inferência estatística
+- População e amostras- Estatísticas e parâmetros 
+- Distribuições amostrais
+- Erro quadrático médio
+- Estimadores não viesados
+- Estimadores eficientes
+- Estatísticas suficientes
+- Famílias exponenciais
+- Métodos de estimação: Método da máxima verossimilhança e Método dos momentos.
+
+### Unidade 2
+- Estimação paramétrica intervalar (método da quantidade pivotal)
+- Intervalos de confiança para uma e duas amostras de populações normais
+- Testes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos. 
+- Principais testes de hipóteses (média, proporção e variância)
+
+## 📚 Bibliografia
+
+- BOLFARINE, H & SANDOVAL, M. C. **Introdução à Inferência Estatística**. SBM, Rio de Janeiro, 2001.
+- CASELLA, G; BERGER, R. L. **Inferência Estatística**. Cengage Learning 2010.
+
+## 🏆  Avaliação
+
+### Unidade 1
+
+- Prova 1: 25%
+- Prova 2: 25% 
+- Reposição (Assunto prova 1 e 2): 50% 
+
+### Unidade 2
+
+- Prova 1: 25%
+- Prova 2: 25% 
+- Reposição (Assunto prova 3 e 4) 50% 
+
+
+## ✏️ Materiais/Listas
+
+### Notas de aula
+- [Revisão Cálculo](materiais/inferencia/revisao_calculo_inferencia.html)
+- [Conceitos Iniciais](materiais/inferencia/Aula1_revisao_conceitos.pdf)
+- [Viés e EQM](materiais/inferencia/Aula2_Estimacao_Vies_EQM.pdf)
+- [Eficiência estatística](materiais/inferencia/Aula3_Eficiencia.pdf)
+- [Exemplo: Eficiência estatística](materiais/inferencia/exemplos/exemplo_estimador_eficiente.pdf)
+- [Conceito de Suficiencia](materiais/inferencia/Aula4_Consistencia_Suficiencia.pdf)
+- [Família Exponencial](materiais/inferencia/Aula5_Familia_exponencial.pdf)
+- [Teorema de Rao-Blackwell](materiais/inferencia/Aula6_Estimadores_baseados_estatisticas_suficientes.pdf)
+- [Estimaçao](materiais/inferencia/Aula7_Metodos_Estimacao.pdf)
+- [Estimaçao Intervalar](materiais/inferencia/Aula8_Intervalo_confianca.pdf)
+- [Testes de Hipóteses](materiais/inferencia/Aula9_Testes_de_hipoteses.pdf)
+
+### Exemplos no R 
+- [Comparação de estimadores](materiais/inferencia/exemplos_r/exemplo_comparacao_eqm.R)
+- [Comparação de estimadores para a variância](materiais/inferencia/exemplos_r/estimadores_variancia.R)
+
+
+### Listas de exercícios
+- [Lista 0: Revisão cálculo](materiais/inferencia/revisao_calculo_inferencia.html)
+- [Lista 1: valor esperado e variância](materiais/inferencia/lista_revisao_prob.pdf)
+- [Lista 2: Valor esperado e variância da soma](materiais/inferencia/lista_esperanca_variancia_soma.pdf)
+- [Lista 3: Função Min e Max](materiais/inferencia/lista_funcao_minmax.pdf)
+- [Lista 4: Verossimilhança](materiais/inferencia/lista_verossimilhanca.pdf)
+- [Lista 5: Viés e EQM](materiais/inferencia/Lista_vies_eqm.pdf)
+- [Lista 6: Eficiencia](materiais/inferencia/lista_eficiencia.pdf)
+- [Lista 7: Suficiencia](materiais/inferencia/lista_suficiencia_cf.pdf)
+- [Lista 8: Família Exponencial](materiais/inferencia/lista_familia_exp.pdf)
+- [Lista 9: Estimação](materiais/inferencia/lista_estimacao.pdf)
+- [Lista 10: Estimação Intervalar](materiais/inferencia/lista_ic.pdf)
+- [Lista 11: Testes de Hipóteses](materiais/inferencia/lista_teste_hipotese.pdf)
+
+### Projetos/Seminários
+- [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_manha.md) <span style="color:blue"> </span>
+- [Projeto 2 - IC e Teste de Hipóteses](materiais/inferencia/Projeto/projeto2_ic_teste_manha.md) <span style="color:blue"></span>
+
+:::
+
+
+
+## Inferência Estatística (2025.2 - Noite)
+
+
+::: {.panel-tabset}
+
+## 📊 Informações
+
+**Código:** GRAD.02599 | **Créditos:** 6 | **Carga Horária:** 90h  
+
+**Horário:** Seg (18:00-20:00) | Seg (20:00-22:00) | Sex (18:00-20:00)    
+
+**Sala:** B-208p - CCT - Bloco B
+
+## 📋 Ementa
+
+Introdução inferência estatística. População e amostra. Estatísticas e Parâmetros. Distribuições amostrais. Estimação paramétrica pontual: métodos de estimação, propriedades dos estimadores, suficiência e ancilaridade, família exponencial, estimadores não viesados de variância mínima. Estimação paramétrica intervalar: métodos da quantidade pivotal. Intervalos de Confiança para uma e duas amostras de populações normais. Testes de hipóteses: conceitos iniciais, poder do teste, métodos de construção, testes mais poderosos, testes uniformemente mais poderosos. Testes para uma e duas amostras de populações normais.
+
+## 📖 Conteúdo
+
+### Unidade 1
+- Introdução a inferência estatística
+- População e amostras- Estatísticas e parâmetros 
+- Distribuições amostrais
+- Erro quadrático médio
+- Estimadores não viesados
+- Estimadores eficientes
+- Estatísticas suficientes
+- Famílias exponenciais
+- Métodos de estimação: Método da máxima verossimilhança e Método dos momentos.
+
+### Unidade 2
+- Estimação paramétrica intervalar (método da quantidade pivotal)
+- Intervalos de confiança para uma e duas amostras de populações normais
+- Testes de hipóteses: Conceitos iniciais, poder do teste, método de construção e testes mais poderosos. 
+- Principais testes de hipóteses (média, proporção e variância)
+
+## 📚 Bibliografia
+
+- BOLFARINE, H & SANDOVAL, M. C. **Introdução à Inferência Estatística**. SBM, Rio de Janeiro, 2001.
+- CASELLA, G; BERGER, R. L. **Inferência Estatística**. Cengage Learning 2010.
+
+## 🏆  Avaliação
+
+### Unidade 1
+
+- Prova 1: 25%
+- Prova 2: 25% 
+- Reposição (Assunto prova 1 e 2): 50% 
+
+### Unidade 2
+
+- Prova 1: 25%
+- Prova 2: 25% 
+- Reposição (Assunto prova 3 e 4) 50% 
+
+
+## ✏️ Materiais/Listas
+
+### Notas de aula
+- [Revisão Cálculo](materiais/inferencia/revisao_calculo_inferencia.html)
+- [Conceitos Iniciais](materiais/inferencia/Aula1_revisao_conceitos.pdf)
+- [Viés e EQM](materiais/inferencia/Aula2_Estimacao_Vies_EQM.pdf)
+- [Eficiência estatística](materiais/inferencia/Aula3_Eficiencia.pdf)
+- [Exemplo: Eficiência estatística](materiais/inferencia/exemplos/exemplo_estimador_eficiente.pdf)
+- [Conceito de Suficiencia](materiais/inferencia/Aula4_Consistencia_Suficiencia.pdf)
+- [Família Exponencial](materiais/inferencia/Aula5_Familia_exponencial.pdf)
+- [Teorema de Rao-Blackwell](materiais/inferencia/Aula6_Estimadores_baseados_estatisticas_suficientes.pdf)
+- [Estimaçao](materiais/inferencia/Aula7_Metodos_Estimacao.pdf)
+- [Estimaçao Intervalar](materiais/inferencia/Aula8_Intervalo_confianca.pdf)
+- [Testes de Hipóteses](materiais/inferencia/Aula9_Testes_de_hipoteses.pdf)
+
+### Exemplos no R 
+- [Comparação de estimadores](materiais/inferencia/exemplos_r/exemplo_comparacao_eqm.R)
+- [Comparação de estimadores para a variância](materiais/inferencia/exemplos_r/estimadores_variancia.R)
+
+
+### Listas de exercícios
+- [Lista 0: Revisão cálculo](materiais/inferencia/revisao_calculo_inferencia.html)
+- [Lista 1: valor esperado e variância](materiais/inferencia/lista_revisao_prob.pdf)
+- [Lista 2: Valor esperado e variância da soma](materiais/inferencia/lista_esperanca_variancia_soma.pdf)
+- [Lista 3: Função Min e Max](materiais/inferencia/lista_funcao_minmax.pdf)
+- [Lista 4: Verossimilhança](materiais/inferencia/lista_verossimilhanca.pdf)
+- [Lista 5: Viés e EQM](materiais/inferencia/Lista_vies_eqm.pdf)
+- [Lista 6: Eficiencia](materiais/inferencia/lista_eficiencia.pdf)
+- [Lista 7: Suficiencia](materiais/inferencia/lista_suficiencia_cf.pdf)
+- [Lista 8: Família Exponencial](materiais/inferencia/lista_familia_exp.pdf)
+- [Lista 9: Estimação](materiais/inferencia/lista_estimacao.pdf)
+- [Lista 10: Estimação Intervalar](materiais/inferencia/lista_ic.pdf)
+- [Lista 11: Testes de Hipóteses](materiais/inferencia/lista_teste_hipotese.pdf)
+
+
+### Projetos/Seminários
+- [Projeto 1 - Viés e EQM](materiais/inferencia/Projeto/projeto1_vies_eqm_noite.md) <span style="color:blue"></span>
+- [Projeto 2 - IC e Teste de Hipóteses](materiais/inferencia/Projeto/projeto2_ic_teste_noite.md) <span style="color:blue"></span>
+
+:::
+
+
+
+
+## Séries Temporais (2025.2 - Noite)
+
+
+::: {.panel-tabset}
+
+## 📊 Informações
+
+**Código:** GRAD.00142 | **Créditos:** 4 | **Carga Horária:** 60h  
+
+**Horário:** Quarta (18:00-20:00) | Sexta (20:00-22:00)
+
+**Sala:** Quarta (A-212 - LAB INFO III - CCT - Bloco A) e Sexta (C-110p - CCT - Bloco C)
+
+
+## 📋 Ementa
+
+Conceitos básicos de séries temporais. Decomposição de uma série. Médias móveis. Alisamento exponencial. Processos estacionários. Modelos ARMA e ARIMA. Identificação e estimação, Previsão e Diagnóstico do modelo (metodologia BoxJenkins). Séries sazonais aditivas e multiplicativas.
+
+## 📖 Conteúdo
+
+### Unidade 1
+
+1.  **Conceitos inicias em séries temporais**
+
+    -   Objetivos de séries temporais
+
+    -   Análise descritiva com séries temporais
+
+    -   Tendência
+
+    -   Sazonalidade
+
+    -   Estacionariedade
+
+    -   exemplos práticos de aplicações em séries temporais
+
+2.  **Modelos de Suavização exponencial**
+
+    -   Médias móveis simples
+
+    -   Suavização exponencial simples
+
+    -   Suavização exponencial de Holt
+
+    -   Suavização exponencial sazonal de Holt-Winters
+
+
+### Unidade 2
+
+3.  **Modelos AR, MA, ARMA e ARIMA**
+
+    -   Modelos Autoregressivos (AR)
+
+    -   Modelos de médias móveis (MA)
+
+    -   Modelos Autoregressivos e de médias móveis (ARMA)
+
+    -   Modelos Autoregressivos e de médias móveis integrados(ARIMA)
+
+    -  Modelos Sazonais Autoregressivos e de médias móveis integrados(SARIMA)
+
+    -   Identificação das ordens dos modelos
+
+    -   critério para seleção dos modelos
+
+    -   Previsão e medidas de avaliação
+
+    -   diagnóstico dos modelos
+
+    -   Exemplos práticos no R
+
+4.  **Tópicos adicionais**
+
+    -   Modelos de séries temporais não gaussianas (GARMA)
+
+    -   Modelos ARCH e GARCH
+
+    -   Modelos de séries temporais não paramétricos
+
+    -   Exemplos práticos no R
+
+    -   Introdução ao Python e aplicações
+
+
+
+## 📚 Bibliografia
+
+\[1\] SHUMWAY R. H. STOFFER, D. S. **Time series analysis and its applications with R examples**. 3°ed. New York: Springer, 2010.
+
+\[2\] MORETTIN, P.A. **Análise de Séries Temporais**. S. Paulo, Edgard Blucher, 2006.
+
+\[3\] BROCKWELL, P. & DAVIS, R. **Introduction to Time Series and Forecasting**. Springer, 1996.
+
+\[4\] HAMILTON, J.D. **Time Series Analysis**.
+
+\[5\]  ROB J HYNDMAN AND GEORGE ATHANASOPOULOS.  **Forecasting: Principles and Practice (3rd ed)**. Monash University, Australia. [Versão online](https://otexts.com/fpp3/)
+
+## 🏆  Avaliação
+
+### Unidade 1
+
+- Atividades: Peso 2
+- Seminários: Peso 8
+- Reposição (Prova todo assunto da unidade 1): Peso 10
+
+### Unidade 2
+
+- Atividades: Peso 2
+- Seminários: Peso 8
+- Reposição (Prova todo assunto da unidade 1): Peso 10
+
+
+
+## ✏️ Materiais/Listas
+
+### Notas de aula
+
+**Etapa 1:**
+
+- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/1_apresentacao_curso.html)
+- [Introdução Séries Temporais](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/2_Introducao_Processo_estocastico.html)
+- [Modelos de Decomposição e Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/3-Modelos_Suavizacao.html)
+
+**Etapa 2:**
+
+- [Conceitos de Estacionariedade e autocorrelação](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/3_revisao_conceitos_st.html)
+- [Modelos da classe ARMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/4-Modelos_ARMA.html)
+- [Modelos da classe ARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/5-Modelos_ARIMA.html)
+- [Modelos da classe SARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/6-Modelos_SARIMA.html)
+- [Modelos da classe ARCH e GARCH](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/7-Modelos_ARCH_GARCH.html)
+- [STL](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/8-sazonalidade_complexa.html)
+- [Combinação de modelos](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Combinacao_modelos.html)
+- [Outliers em ST](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/outliers.html)
+- [Bootstrap em ST](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/bootstrap.html)
+
+
+
+### Exemplos práticos
+
+- [Visualização ST no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/visualizacao_time_series.html)
+- [Modelo de Decomposição](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Exercicio_decomposicao.html)
+- [Médias Móveis no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_medias_moveis.html)
+- [Forecast no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_forecast.R)
+- [Comportamento ACF/PACF no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/comportamento_acf_processos_estocasticos.R)
+- [ARIMA no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/exemplo_ARIMA.html)
+- [SARIMA no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/Exemplo_SARIMA.html)
+- [ARCH/GARCH no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/Exemplo_GARCH.R)
+
+
+### Exemplos teóricos 
+- [Processo AR(1)](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Processo_ar1.html)
+- [Processo Estacionários](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/processos.html)
+
+
+### Listas de exercícios
+- [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) 
+
+### Projetos/Seminários
+- [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) 
+- [Projeto 2 - Modelos de ARIMA e SARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_2.html) 
+
+:::
