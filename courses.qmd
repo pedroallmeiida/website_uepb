@@ -40,9 +40,19 @@ title: "Disciplinas"
 ## ✏️ Materiais/Listas
 
 ### Notas de aula
+
 - [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/1_apresentacao_curso.html)
 - [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/2_introducao_github.html)
+- [Introdução ao Python](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/4_introducao_python.html)
+- [Entendimento de Necessidades](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/3_entendimento_necessidades.html)
 
+
+
+### Templates e tutoriais 
+
+- [Tutorial VS Code](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_vscode.html)
+- [Template Entrevista](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_entrevistas.html)
+- [Template Briefing](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_briefing.html)
 
 ## Exercícios
 
@@ -64,7 +74,7 @@ title: "Disciplinas"
 
 **Horário:** Seg (20:00-22:00) | Qua (18:00-20:00)
 
-**Sala:** Seg (A-116p - CCT - Bloco A) e Qua (B-203g - CCT - Bloco B)
+**Sala:** Seg (B-203g - CCT - Bloco A) e Qua (A-116p - CCT - Bloco B)
 
 
 ## 📋 Ementa
@@ -174,8 +184,6 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 - [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/1_apresentacao_curso.html)
 - [Introdução Séries Temporais](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/2_Introducao_Processo_estocastico.html)
-
-<!--
 - [Modelos de Decomposição e Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/3-Modelos_Suavizacao.html)
 
 
@@ -195,6 +203,9 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 
 ### Exemplos práticos
+
+- [Visualização ST no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/visualizacao_time_series.html)
+- [Modelo de Decomposição](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Exercicio_decomposicao.html)
 
 <!--
 - [Visualização ST no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/visualizacao_time_series.html)
@@ -216,9 +227,9 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 
 ### Listas de exercícios
-<!--
+
 - [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) 
--->
+
 
 ### Projetos/Seminários
 <!--
@@ -240,7 +251,7 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 **Horário:** Seg (07:00-09:00) | Qui (09:00-11:00)
 
-**Sala:** Seg (A-211 - LABEST - CCT - Bloco A) e Qui (C-109p - CCT - Bloco C)
+**Sala:** Seg (C-109p - CCT - Bloco C) e Qui (A-211 - LABEST - CCT - Bloco A)
 
 
 ## 📋 Ementa
@@ -350,9 +361,8 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 - [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/1_apresentacao_curso.html)
 - [Introdução Séries Temporais](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/2_Introducao_Processo_estocastico.html)
-
-<!--
 - [Modelos de Decomposição e Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/3-Modelos_Suavizacao.html)
+
 
 
 **Etapa 2:**
@@ -372,9 +382,11 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 ### Exemplos práticos
 
-<!--
+
 - [Visualização ST no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/visualizacao_time_series.html)
 - [Modelo de Decomposição](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Exercicio_decomposicao.html)
+
+<!--
 - [Médias Móveis no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_medias_moveis.html)
 - [Forecast no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_forecast.R)
 - [Comportamento ACF/PACF no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/comportamento_acf_processos_estocasticos.R)
@@ -392,11 +404,11 @@ Conceitos básicos de séries temporais. Decomposição de uma série. Médias m
 
 
 ### Listas de exercícios
-<!--
+
 - [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) 
--->
 
 ### Projetos/Seminários
+
 <!--
 - [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) 
 - [Projeto 2 - Modelos de ARIMA e SARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_2.html) 
