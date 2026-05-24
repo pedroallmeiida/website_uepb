@@ -54,9 +54,13 @@ title: "Disciplinas"
 - [Template Entrevista](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_entrevistas.html)
 - [Template Briefing](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_briefing.html)
 
-## Exercícios
+### Notebooks Python 
+- [Estatística descritiva](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/Estatistica_descritiva.ipynb){download="Estatistica_descritiva.ipynb"}
+
+
 
 ### Projetos/Seminários
+- [Projeto Unidade I](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/projetos_2026/Projetos_ciencia_dados.html)
 
 
 :::
