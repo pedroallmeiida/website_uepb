@@ -45,6 +45,8 @@ title: "Disciplinas"
 - [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/2_introducao_github.html)
 - [Introdução ao Python](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/4_introducao_python.html)
 - [Entendimento de Necessidades](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/3_entendimento_necessidades.html)
+- [Machine Learning](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/Machine_Learning/Apresentacao_ML.html)
+- [MLG](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/MLG/MLG.html)
 
 
 
@@ -55,14 +57,13 @@ title: "Disciplinas"
 - [Template Briefing](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_briefing.html)
 
 ### Notebooks Python 
-- [Estatística descritiva](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/Estatistica_descritiva.ipynb){download="Estatistica_descritiva.ipynb"}
-
+- [Estatística descritiva - Acessar em Consultoria estatística](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/Estatistica_descritiva.ipynb){download="Estatistica_descritiva.ipynb"}
+- [Manulipulaçao de dados - Acessar em Consultoria estatística](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/Estatistica_descritiva.ipynb)
+- [Pycaret - Acessar em Consultoria estatística](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/Estatistica_descritiva.ipynb)
 
 
 ### Projetos/Seminários
 - [Projeto Unidade I](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/projetos_2026/Projetos_ciencia_dados.html)
-
-
 :::
 
 
