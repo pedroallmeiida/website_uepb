@@ -57,9 +57,12 @@ title: "Disciplinas"
 - [Template Briefing](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_briefing.html)
 
 ### Notebooks Python 
-- [Estatística descritiva - Acessar em Consultoria estatística](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/Estatistica_descritiva.ipynb){download="Estatistica_descritiva.ipynb"}
-- [Manulipulaçao de dados - Acessar em Consultoria estatística](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/Estatistica_descritiva.ipynb)
-- [Pycaret - Acessar em Consultoria estatística](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/Estatistica_descritiva.ipynb)
+
+- [Estatística descritiva](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/Estatistica_descritiva.html)
+- [Manulipulaçao de dados](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/manipulacao_dados_pandas.html)
+- [ML (Clasificação) - Sklearn](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/machine_learning/ml_sklearn/classificacao_ml.html)
+- [ML (Regressão) - Sklearn](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/machine_learning/ml_sklearn/regressao_ml.html)
+- [ML - Pycaret](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/machine_learning/ml_pycaret/pycaret_ml.html)
 
 
 ### Projetos/Seminários
