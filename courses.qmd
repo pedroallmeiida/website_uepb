@@ -56,6 +56,7 @@ title: "Disciplinas"
 - [Tutorial VS Code](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_vscode.html)
 - [Template Entrevista](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_entrevistas.html)
 - [Template Briefing](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_briefing.html)
+- [Tutorial FastAPI](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_fastapi.html)
 
 ### Notebooks Python 
 
