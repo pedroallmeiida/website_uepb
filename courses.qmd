@@ -57,6 +57,7 @@ title: "Disciplinas"
 - [Template Entrevista](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_entrevistas.html)
 - [Template Briefing](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_briefing.html)
 - [Tutorial FastAPI](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_fastapi.html)
+- [Tutorial API modelos ML](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_api_ml.html)
 
 ### Notebooks Python 
 
