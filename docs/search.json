@@ -4,7 +4,7 @@
     "href": "publications.html",
     "title": "Publicações",
     "section": "",
-    "text": "\\(\\mathcal{G}_{I}^{0}\\) ARMA process for speckled data\nALMEIDA-JUNIOR, PEDRO M.; NASCIMENTO, ABRAÃO D. C. Journal of Statistical Computation and Simulation, 2021 Impact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo processo ARMA aseado na distribuição \\(\\mathcal{G}_{I}^{0}\\).\n\nK-Bessel regression model for speckled data\nNASCIMENTO, A.D.C; ALMEIDA JUNIOR, P. M.; VASCONCELOS, J. M.; BORGES-JUNIOR, A. P. M.\nJournal of Applied Statistics, 2022\nImpact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo modelo de regressão utilizando a distribuição k-Bessel.\n\nGeneralized gamma ARMA process for synthetic aperture radar amplitude and intensity data\nSILVA, W. B. F.; ALMEIDA JUNIOR, P. M.; NASCIMENTO, ABRAÃO D. C.\nEnvironmetrics, 2023\nImpact Factor: –\nPDF | DOI\n\n\n\n\n\nPublicações por ano",
+    "text": "\\(\\mathcal{G}_{I}^{0}\\) ARMA process for speckled data\nALMEIDA-JUNIOR, PEDRO M.; NASCIMENTO, ABRAÃO D. C. Journal of Statistical Computation and Simulation, 2021 Impact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo processo ARMA aseado na distribuição \\(\\mathcal{G}_{I}^{0}\\).\n\nK-Bessel regression model for speckled data\nNASCIMENTO, A.D.C; ALMEIDA JUNIOR, P. M.; VASCONCELOS, J. M.; BORGES-JUNIOR, A. P. M.\nJournal of Applied Statistics, 2022\nImpact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo modelo de regressão utilizando a distribuição k-Bessel.\n\nGeneralized gamma ARMA process for synthetic aperture radar amplitude and intensity data\nSILVA, W. B. F.; ALMEIDA JUNIOR, P. M.; NASCIMENTO, ABRAÃO D. C.\nEnvironmetrics, 2023\nImpact Factor: –\nPDF | DOI",
     "crumbs": [
       "Início",
       "Pesquisa",
@@ -16,7 +16,7 @@
     "href": "publications.html#artigos-em-periódicos",
     "title": "Publicações",
     "section": "",
-    "text": "\\(\\mathcal{G}_{I}^{0}\\) ARMA process for speckled data\nALMEIDA-JUNIOR, PEDRO M.; NASCIMENTO, ABRAÃO D. C. Journal of Statistical Computation and Simulation, 2021 Impact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo processo ARMA aseado na distribuição \\(\\mathcal{G}_{I}^{0}\\).\n\nK-Bessel regression model for speckled data\nNASCIMENTO, A.D.C; ALMEIDA JUNIOR, P. M.; VASCONCELOS, J. M.; BORGES-JUNIOR, A. P. M.\nJournal of Applied Statistics, 2022\nImpact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo modelo de regressão utilizando a distribuição k-Bessel.\n\nGeneralized gamma ARMA process for synthetic aperture radar amplitude and intensity data\nSILVA, W. B. F.; ALMEIDA JUNIOR, P. M.; NASCIMENTO, ABRAÃO D. C.\nEnvironmetrics, 2023\nImpact Factor: –\nPDF | DOI\n\n\n\n\n\nPublicações por ano",
+    "text": "\\(\\mathcal{G}_{I}^{0}\\) ARMA process for speckled data\nALMEIDA-JUNIOR, PEDRO M.; NASCIMENTO, ABRAÃO D. C. Journal of Statistical Computation and Simulation, 2021 Impact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo processo ARMA aseado na distribuição \\(\\mathcal{G}_{I}^{0}\\).\n\nK-Bessel regression model for speckled data\nNASCIMENTO, A.D.C; ALMEIDA JUNIOR, P. M.; VASCONCELOS, J. M.; BORGES-JUNIOR, A. P. M.\nJournal of Applied Statistics, 2022\nImpact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo modelo de regressão utilizando a distribuição k-Bessel.\n\nGeneralized gamma ARMA process for synthetic aperture radar amplitude and intensity data\nSILVA, W. B. F.; ALMEIDA JUNIOR, P. M.; NASCIMENTO, ABRAÃO D. C.\nEnvironmetrics, 2023\nImpact Factor: –\nPDF | DOI",
     "crumbs": [
       "Início",
       "Pesquisa",
@@ -85,7 +85,7 @@
     "href": "courses.html",
     "title": "Disciplinas",
     "section": "",
-    "text": "📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProjetos\n\n\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\nEntendimento de Necessidades\nMachine Learning\nMLG\nDeploy modelos API\nAutomatizar deploy CI/CD\n\n\n\n\n\nTutorial VS Code\nTemplate Entrevista\nTemplate Briefing\nTutorial FastAPI\nTutorial API modelos ML\n\n\n\n\n\nEstatística descritiva\nManulipulaçao de dados\nML (Clasificação) - Sklearn\nML (Regressão) - Sklearn\nML - Pycaret\n\n\n\n\n\nProjeto Unidade I",
+    "text": "📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.15220| Créditos: 4 | Carga Horária: 60h\nHorário: MANHÃ: Ter (09:00-11:00) | Sex (07:00-09:00) e NOITE: Ter (20:00-22:00) | Qui (18:00-20:00)\nSala: LABEST - CCT - Bloco A\n\n\nIntrodução à análise de algoritmos. Tipos Abstratos de Dados. Estruturas de dados fundamentais: Arrays, Pilhas, Filas, Listas, Grafos, Hash tables. Algoritmos de busca em memória principal. Gerenciamento de memória dinâmica. Aplicações em softwares.\n\n\n\n\n\nIntrodução à lógica e estruturas de programação\nIntrodução à análise de algoritmos.\nComplexidade computacional e análise de desempenho.\nTipos Abstratos de Dados (TAD).\nEstruturas de dados lineares.\nArrays e operações básicas.\nListas encadeadas e suas operações.\nPilhas e filas.\nGerenciamento de memória dinâmica.\nImplementação e aplicação das estruturas de dados em Python.\n\n\n\n\n\nAlgoritmos de busca em memória principal.\nBusca sequencial e busca binária.\nTabelas hash e funções de espalhamento.\nColisões e estratégias de resolução.\nIntrodução às estruturas de dados em grafos.\nRepresentação de grafos.\nPercursos e operações básicas em grafos.\nAnálise da complexidade dos algoritmos de busca e manipulação.\nAplicações de estruturas de dados em softwares e problemas de Estatística e Ciência de Dados.\nImplementação de estruturas e algoritmos utilizando Python.\n\n\n\n\n\nSZWARCFITER, Jayme Luiz; MARKENZON, Lilian. Estruturas de Dados e seus Algoritmos (3a. edição). Editora LTC, 2010.\nMENEZES, Nilo Ney Coutinho. Introdução à programação com Python: algoritmos e lógica de programação para iniciantes. Novatec, 2010.\nSouza, M.A.F; Gomes, M.M.; Soares, M.V.; Concilio R. Algoritmos e lógica de programação. Cengage 3 Ed.\n\n\n\n\n\n\nProvas e Seminários\n\n\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\n\n\n\n\n\nTutorial VS Code",
     "crumbs": [
       "Início",
       "Ensino",
@@ -111,7 +111,7 @@
     "href": "projects.html",
     "title": "Projetos de Pesquisa",
     "section": "",
-    "text": "Financiador: CNPq - Pibic Período: 2025-2026 Papel: Coordenador\nObjetivo: Desenvolvimento dos processos G0-ARMA e KB-ARMA para predição de índices de vegetação RVI.\nEquipe: - Prof. Dr. Pedro M. Almeida-Junior (Coordenador) - Elizeu Silva Medeiros (Discente)\nResultados Esperados: - 1 artigo publicado em periódicos internacionais\n\n\n\nFinanciador: CNPq - Pibic Período: 2025-2026 Papel: Coordenador\nObjetivo: Construção de novos classificadores utilizando medidas de divergência para séries temporais.\nEquipe: - Prof. Dr. Pedro M. Almeida-Junior (Coordenador) - Italo Gabriel da Silva (Discente)\nResultados Esperados: - 1 artigo publicado em periódicos internacionais",
+    "text": "Esta página reúne os projetos de pesquisa concluídos sob minha coordenação, com foco em séries temporais e dados SAR.",
     "crumbs": [
       "Início",
       "Pesquisa",
@@ -693,6 +693,82 @@
       "Início",
       "Ensino",
       "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "courses.html#algoritmos-e-lógica-de-programação-2026.2",
+    "href": "courses.html#algoritmos-e-lógica-de-programação-2026.2",
+    "title": "Disciplinas",
+    "section": "",
+    "text": "📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.15220| Créditos: 4 | Carga Horária: 60h\nHorário: MANHÃ: Ter (09:00-11:00) | Sex (07:00-09:00) e NOITE: Ter (20:00-22:00) | Qui (18:00-20:00)\nSala: LABEST - CCT - Bloco A\n\n\nIntrodução à análise de algoritmos. Tipos Abstratos de Dados. Estruturas de dados fundamentais: Arrays, Pilhas, Filas, Listas, Grafos, Hash tables. Algoritmos de busca em memória principal. Gerenciamento de memória dinâmica. Aplicações em softwares.\n\n\n\n\n\nIntrodução à lógica e estruturas de programação\nIntrodução à análise de algoritmos.\nComplexidade computacional e análise de desempenho.\nTipos Abstratos de Dados (TAD).\nEstruturas de dados lineares.\nArrays e operações básicas.\nListas encadeadas e suas operações.\nPilhas e filas.\nGerenciamento de memória dinâmica.\nImplementação e aplicação das estruturas de dados em Python.\n\n\n\n\n\nAlgoritmos de busca em memória principal.\nBusca sequencial e busca binária.\nTabelas hash e funções de espalhamento.\nColisões e estratégias de resolução.\nIntrodução às estruturas de dados em grafos.\nRepresentação de grafos.\nPercursos e operações básicas em grafos.\nAnálise da complexidade dos algoritmos de busca e manipulação.\nAplicações de estruturas de dados em softwares e problemas de Estatística e Ciência de Dados.\nImplementação de estruturas e algoritmos utilizando Python.\n\n\n\n\n\nSZWARCFITER, Jayme Luiz; MARKENZON, Lilian. Estruturas de Dados e seus Algoritmos (3a. edição). Editora LTC, 2010.\nMENEZES, Nilo Ney Coutinho. Introdução à programação com Python: algoritmos e lógica de programação para iniciantes. Novatec, 2010.\nSouza, M.A.F; Gomes, M.M.; Soares, M.V.; Concilio R. Algoritmos e lógica de programação. Cengage 3 Ed.\n\n\n\n\n\n\nProvas e Seminários\n\n\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\n\n\n\n\n\nTutorial VS Code",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "courses_2026.1.html",
+    "href": "courses_2026.1.html",
+    "title": "Disciplinas",
+    "section": "",
+    "text": "📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProjetos\n\n\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\nEntendimento de Necessidades\nMachine Learning\nMLG\nDeploy modelos API\nAutomatizar deploy CI/CD\n\n\n\n\n\nTutorial VS Code\nTemplate Entrevista\nTemplate Briefing\nTutorial FastAPI\nTutorial API modelos ML\n\n\n\n\n\nEstatística descritiva\nManulipulaçao de dados\nML (Clasificação) - Sklearn\nML (Regressão) - Sklearn\nML - Pycaret\n\n\n\n\n\nProjeto Unidade I"
+  },
+  {
+    "objectID": "courses_2026.1.html#consultoria-estatística-2026.1---noite",
+    "href": "courses_2026.1.html#consultoria-estatística-2026.1---noite",
+    "title": "Disciplinas",
+    "section": "",
+    "text": "📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.00683| Créditos: 4 | Carga Horária: 60h\nHorário: Seg (18:00-20:00) | Qua (20:00-22:00)\nSala: Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProjetos\n\n\n\n\n\n\n\nApresentação do curso\nIntrodução ao Github\nIntrodução ao Python\nEntendimento de Necessidades\nMachine Learning\nMLG\nDeploy modelos API\nAutomatizar deploy CI/CD\n\n\n\n\n\nTutorial VS Code\nTemplate Entrevista\nTemplate Briefing\nTutorial FastAPI\nTutorial API modelos ML\n\n\n\n\n\nEstatística descritiva\nManulipulaçao de dados\nML (Clasificação) - Sklearn\nML (Regressão) - Sklearn\nML - Pycaret\n\n\n\n\n\nProjeto Unidade I"
+  },
+  {
+    "objectID": "courses_2026.1.html#séries-temporais-2026.1---noite",
+    "href": "courses_2026.1.html#séries-temporais-2026.1---noite",
+    "title": "Disciplinas",
+    "section": "Séries Temporais (2026.1 - Noite)",
+    "text": "Séries Temporais (2026.1 - Noite)\n\n📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.00142 | Créditos: 4 | Carga Horária: 60h\nHorário: Seg (20:00-22:00) | Qua (18:00-20:00)\nSala: Seg (B-203g - CCT - Bloco A) e Qua (A-116p - CCT - Bloco B)\n\n\nConceitos básicos de séries temporais. Decomposição de uma série. Médias móveis. Alisamento exponencial. Processos estacionários. Modelos ARMA e ARIMA. Identificação e estimação, Previsão e Diagnóstico do modelo (metodologia BoxJenkins). Séries sazonais aditivas e multiplicativas.\n\n\n\nUnidade 1\n\nConceitos inicias em séries temporais\n\nObjetivos de séries temporais\nAnálise descritiva com séries temporais\nTendência\nSazonalidade\nEstacionariedade\nexemplos práticos de aplicações em séries temporais\n\nModelos de Suavização exponencial\n\nMédias móveis simples\nSuavização exponencial simples\nSuavização exponencial de Holt\nSuavização exponencial sazonal de Holt-Winters\n\n\n\n\nUnidade 2\n\nModelos AR, MA, ARMA e ARIMA\n\nModelos Autoregressivos (AR)\nModelos de médias móveis (MA)\nModelos Autoregressivos e de médias móveis (ARMA)\nModelos Autoregressivos e de médias móveis integrados(ARIMA)\nModelos Sazonais Autoregressivos e de médias móveis integrados(SARIMA)\nIdentificação das ordens dos modelos\ncritério para seleção dos modelos\nPrevisão e medidas de avaliação\ndiagnóstico dos modelos\nExemplos práticos no R\n\nTópicos adicionais\n\nModelos de séries temporais não gaussianas (GARMA)\nModelos ARCH e GARCH\nModelos de séries temporais não paramétricos\nExemplos práticos no R\nIntrodução ao Python e aplicações\n\n\n\n\n\n[1] SHUMWAY R. H. STOFFER, D. S. Time series analysis and its applications with R examples. 3°ed. New York: Springer, 2010.\n[2] MORETTIN, P.A. Análise de Séries Temporais. S. Paulo, Edgard Blucher, 2006.\n[3] BROCKWELL, P. & DAVIS, R. Introduction to Time Series and Forecasting. Springer, 1996.\n[4] HAMILTON, J.D. Time Series Analysis.\n[5] ROB J HYNDMAN AND GEORGE ATHANASOPOULOS. Forecasting: Principles and Practice (3rd ed). Monash University, Australia. Versão online\n\n\n\nUnidade 1\n\nAtividades: Peso 2\nSeminários: Peso 8\nReposição (Prova todo assunto da unidade 1): Peso 10\n\n\n\nUnidade 2\n\nAtividades: Peso 2\nSeminários: Peso 8\nReposição (Prova todo assunto da unidade 1): Peso 10\n\n\n\n\n\nNotas de aula\nEtapa 1:\n\nApresentação do curso\nIntrodução Séries Temporais\nModelos de Decomposição e Suavização Exponencial\nSTL\nBootstrap em ST\nOutliers em ST\n\nEtapa 2:\n\nConceitos de Estacionariedade e autocorrelação\nModelos da classe ARMA\nModelos da classe ARIMA\nModelos da classe SARIMA\nCombinação de modelos\nModelos da classe ARCH e GARCH\n\n\n\nExemplos práticos\nUnidade I:\n\nVisualização ST no R\nModelo de Decomposição\nMédias Móveis no R\nForecast no R\n\nUnidade II:\n\nComportamento ACF/PACF no R\nARIMA no R\nSARIMA no R\n\n\n\n\nExemplos teóricos\n\nProcesso AR(1)\nProcesso Estacionários\n\n\n\nListas de exercícios\n\nLista 1 - Visualização\nLista 2 - Processos ARMA\n\n\n\nProjetos/Seminários\n\nProjeto 1 - Modelos de Suavização Exponencial\nProjeto 2 - Modelos de ARIMA e SARIMA"
+  },
+  {
+    "objectID": "courses_2026.1.html#séries-temporais-2026.1---manhã",
+    "href": "courses_2026.1.html#séries-temporais-2026.1---manhã",
+    "title": "Disciplinas",
+    "section": "Séries Temporais (2026.1 - Manhã)",
+    "text": "Séries Temporais (2026.1 - Manhã)\n\n📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.00142 | Créditos: 4 | Carga Horária: 60h\nHorário: Seg (07:00-09:00) | Qui (09:00-11:00)\nSala: Seg (C-109p - CCT - Bloco C) e Qui (A-211 - LABEST - CCT - Bloco A)\n\n\nConceitos básicos de séries temporais. Decomposição de uma série. Médias móveis. Alisamento exponencial. Processos estacionários. Modelos ARMA e ARIMA. Identificação e estimação, Previsão e Diagnóstico do modelo (metodologia BoxJenkins). Séries sazonais aditivas e multiplicativas.\n\n\n\nUnidade 1\n\nConceitos inicias em séries temporais\n\nObjetivos de séries temporais\nAnálise descritiva com séries temporais\nTendência\nSazonalidade\nEstacionariedade\nexemplos práticos de aplicações em séries temporais\n\nModelos de Suavização exponencial\n\nMédias móveis simples\nSuavização exponencial simples\nSuavização exponencial de Holt\nSuavização exponencial sazonal de Holt-Winters\n\n\n\n\nUnidade 2\n\nModelos AR, MA, ARMA e ARIMA\n\nModelos Autoregressivos (AR)\nModelos de médias móveis (MA)\nModelos Autoregressivos e de médias móveis (ARMA)\nModelos Autoregressivos e de médias móveis integrados(ARIMA)\nModelos Sazonais Autoregressivos e de médias móveis integrados(SARIMA)\nIdentificação das ordens dos modelos\ncritério para seleção dos modelos\nPrevisão e medidas de avaliação\ndiagnóstico dos modelos\nExemplos práticos no R\n\nTópicos adicionais\n\nModelos de séries temporais não gaussianas (GARMA)\nModelos ARCH e GARCH\nModelos de séries temporais não paramétricos\nExemplos práticos no R\nIntrodução ao Python e aplicações\n\n\n\n\n\n[1] SHUMWAY R. H. STOFFER, D. S. Time series analysis and its applications with R examples. 3°ed. New York: Springer, 2010.\n[2] MORETTIN, P.A. Análise de Séries Temporais. S. Paulo, Edgard Blucher, 2006.\n[3] BROCKWELL, P. & DAVIS, R. Introduction to Time Series and Forecasting. Springer, 1996.\n[4] HAMILTON, J.D. Time Series Analysis.\n[5] ROB J HYNDMAN AND GEORGE ATHANASOPOULOS. Forecasting: Principles and Practice (3rd ed). Monash University, Australia. Versão online\n\n\n\nUnidade 1\n\nAtividades: Peso 2\nSeminários: Peso 8\nReposição (Prova todo assunto da unidade 1): Peso 10\n\n\n\nUnidade 2\n\nAtividades: Peso 2\nSeminários: Peso 8\nReposição (Prova todo assunto da unidade 1): Peso 10\n\n\n\n\n\nNotas de aula\nEtapa 1:\n\nApresentação do curso\nIntrodução Séries Temporais\nModelos de Decomposição e Suavização Exponencial\nSTL\n\nEtapa 2:\n\nConceitos de Estacionariedade e autocorrelação\nModelos da classe ARMA\nModelos da classe ARIMA\nModelos da classe SARIMA\nCombinação de modelos\nOutliers em ST\nBootstrap em ST\n\n\n\n\nExemplos práticos\n\nUnidade I\n\nVisualização ST no R\nModelo de Decomposição\nMédias Móveis no R\nForecast no R\n\n\n\nUnidade II\n\nComportamento ACF/PACF no R\nARIMA no R\nSARIMA no R\n\n\n\n\n\nExemplos teóricos\n\nProcesso AR(1)\nProcesso Estacionários\n\n\n\nListas de exercícios\n\nLista 1 - Visualização\nLista 2 - Processos ARMA\n\n\n\nProjetos/Seminários\n\n\nProjeto - Modelos de ARIMA e SARIMA"
+  },
+  {
+    "objectID": "courses.html#introdução-a-banco-de-dados-2026.2",
+    "href": "courses.html#introdução-a-banco-de-dados-2026.2",
+    "title": "Disciplinas",
+    "section": "Introdução a Banco de Dados (2026.2)",
+    "text": "Introdução a Banco de Dados (2026.2)\n\n📊 Informações📋 Ementa📖 Conteúdo📚 Bibliografia🏆 Avaliação✏️ Materiais/Listas\n\n\nCódigo: GRAD.15222 | Créditos: 4 | Carga Horária: 60h\nHorário: Manhã: Seg (11:00-13:00) | Qui (07:00-09:00) e Noite: Ter (20:00-22:00) | Qui (18:00-20:00)\nSala: LABEST - CCT - Bloco A\n\n\nConceitos Básicos: Arquitetura de um Sistema de Banco de Dados, Modelos de Dados, Linguagens de Definição e Manipulação de Dados. Modelagem relacional de Dados. Projeto de Banco de Dados Relacional. Dependência Funcional e Normalização. Manipulação de dados com SGBDR. Uso da Linguagem SQL. Projeto prático de um banco de dados relacional em SQL. Banco de Dados NãoRelacionais (NoSQL). Uso do MongoDB. Armazenamento Distribuído em clusters (Hadoop). Processamento em memória com Spark. Controle de Transações. Introdução à Otimização de Consultas. Controle de Concorrência. Controle de Integridade. Segurança. Utilização de softwares\n\n\n\nUnidade 1\n\nConceitos básicos de banco de dados e Sistemas Gerenciadores de Bancos de Dados (SGBD).\nArquitetura de sistemas de banco de dados e modelos de dados.\nModelo Entidade-Relacionamento e modelagem conceitual. Modelo relacional: relações, atributos, tuplas e chaves. Projeto de bancos de dados relacionais. Dependências funcionais e normalização. Integridade e restrições em bancos de dados. Linguagem SQL: definição, manipulação e consulta de dados. Criação, alteração e manutenção de tabelas. Consultas, filtros, agregações e ordenação. Junções, subconsultas e views. Integração de bancos de dados com ferramentas Estatísticas/Ciência de Dados. Projeto prático de modelagem e implementação de um banco de dados relacional utilizando SQL.\n\n\n\nUnidade 2\nConceitos e características dos bancos de dados não relacionais (NoSQL). Modelos NoSQL: chave-valor, documentos, colunas e grafos. Bancos de dados orientados a documentos. Introdução ao MongoDB e operações de manipulação e consulta. Comparação entre bancos relacionais e NoSQL e critérios de escolha. Conceitos de armazenamento e processamento distribuído. Introdução ao ecossistema Hadoop e armazenamento em clusters. Introdução ao Apache Spark e processamento de dados em memória. Aplicações de bancos relacionais e NoSQL em Ciência de Dados. Introdução à otimização de consultas e uso de índices. Conceitos de transações, propriedades ACID e controle de concorrência. Noções de segurança e controle de acesso. Projeto aplicado de armazenamento, consulta e processamento de dados utilizando banco relacional e/ou NoSQL.\n\n\n\n\n\n\n\nUnidades 1 e 2\nProvas e seminários\n\n\n\n\nNotas de aula\nUnidade 1:\n\nApresentação do curso\n\n\n\nExemplos práticos\nUnidade I:\nUnidade II:\n\n\nListas de exercícios\n\n\nProjetos/Seminários",
+    "crumbs": [
+      "Início",
+      "Ensino",
+      "Disciplinas"
+    ]
+  },
+  {
+    "objectID": "projects.html#projetos-concluídos",
+    "href": "projects.html#projetos-concluídos",
+    "title": "Projetos de Pesquisa",
+    "section": "Projetos Concluídos",
+    "text": "Projetos Concluídos\n\n\n\n\n\n\nProcessos G0-ARMA e KB-ARMA aplicados ao índice de vegetação RVI\n\n\n\n\n\n\nItem\nDescrição\n\n\n\n\nFinanciador\nCNPq - PIBIC\n\n\nPeríodo\n2025-2026\n\n\nPapel\nCoordenador\n\n\n\nObjetivo: Desenvolvimento dos processos G0-ARMA e KB-ARMA para predição de índices de vegetação RVI.\nEquipe:\n\nProf. Dr. Pedro M. Almeida-Junior (Coordenador)\nElizeu Silva Medeiros (Discente)\n\n\n\n\n\n\n\n\n\nClassificadores para séries temporais com dados SAR\n\n\n\n\n\n\nItem\nDescrição\n\n\n\n\nFinanciador\nCNPq - PIBIC\n\n\nPeríodo\n2025-2026\n\n\nPapel\nCoordenador\n\n\n\nObjetivo: Construção de novos classificadores utilizando medidas de divergência para séries temporais.\nEquipe:\n\nProf. Dr. Pedro M. Almeida-Junior (Coordenador)\nItalo Gabriel da Silva (Discente)",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Projetos de Pesquisa"
+    ]
+  },
+  {
+    "objectID": "publications.html#artigos-em-periódicos-estatísticos",
+    "href": "publications.html#artigos-em-periódicos-estatísticos",
+    "title": "Publicações",
+    "section": "",
+    "text": "\\(\\mathcal{G}_{I}^{0}\\) ARMA process for speckled data\nALMEIDA-JUNIOR, PEDRO M.; NASCIMENTO, ABRAÃO D. C. Journal of Statistical Computation and Simulation, 2021 Impact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo processo ARMA aseado na distribuição \\(\\mathcal{G}_{I}^{0}\\).\n\nK-Bessel regression model for speckled data\nNASCIMENTO, A.D.C; ALMEIDA JUNIOR, P. M.; VASCONCELOS, J. M.; BORGES-JUNIOR, A. P. M.\nJournal of Applied Statistics, 2022\nImpact Factor: –\nPDF | DOI\n\nEste trabalho apresenta um novo modelo de regressão utilizando a distribuição k-Bessel.\n\nGeneralized gamma ARMA process for synthetic aperture radar amplitude and intensity data\nSILVA, W. B. F.; ALMEIDA JUNIOR, P. M.; NASCIMENTO, ABRAÃO D. C.\nEnvironmetrics, 2023\nImpact Factor: –\nPDF | DOI",
+    "crumbs": [
+      "Início",
+      "Pesquisa",
+      "Publicações"
     ]
   }
 ]

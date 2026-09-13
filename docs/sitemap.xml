@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pedroallmeiida.github.io/meu_site/publications.html</loc>
-    <lastmod>2025-08-12T18:26:04.784Z</lastmod>
+    <lastmod>2026-09-13T13:08:02.358Z</lastmod>
   </url>
   <url>
     <loc>https://pedroallmeiida.github.io/meu_site/materials.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://pedroallmeiida.github.io/meu_site/cv.html</loc>
-    <lastmod>2025-08-12T19:22:10.189Z</lastmod>
+    <lastmod>2026-09-13T13:16:39.048Z</lastmod>
   </url>
   <url>
     <loc>https://pedroallmeiida.github.io/meu_site/contact.html</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://pedroallmeiida.github.io/meu_site/courses.html</loc>
-    <lastmod>2026-08-03T19:58:01.024Z</lastmod>
+    <lastmod>2026-09-13T13:18:45.117Z</lastmod>
   </url>
   <url>
     <loc>https://pedroallmeiida.github.io/meu_site/index.html</loc>
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>https://pedroallmeiida.github.io/meu_site/projects.html</loc>
-    <lastmod>2025-08-08T02:27:24.088Z</lastmod>
+    <lastmod>2026-09-13T13:03:30.107Z</lastmod>
   </url>
   <url>
     <loc>https://pedroallmeiida.github.io/meu_site/materiais/inferencia/revisao_calculo_inferencia.html</loc>
@@ -63,5 +63,9 @@
   <url>
     <loc>https://pedroallmeiida.github.io/meu_site/courses_2025.1.html</loc>
     <lastmod>2026-03-27T00:24:47.273Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pedroallmeiida.github.io/meu_site/courses_2026.1.html</loc>
+    <lastmod>2026-08-03T19:58:36.352Z</lastmod>
   </url>
 </urlset>

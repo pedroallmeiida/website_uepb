@@ -68,9 +68,9 @@ library(DT)
 # Resumo da produção científica
 metricas <- data.frame(
   Categoria = c("Artigos em Periódicos", "Capítulos de Livro", "Trabalhos em Conferências", 
-                "Orientações Mestrado", "Orientações Doutorado", "Projetos Coordenados"),
-  Total = c(10, 0, 0, 0, 0, 2),
-  `Últimos 5 anos` = c(10, 0, 0, 0, 0, 2)
+                "Orientações TCC", "Projetos Coordenados"),
+  Total = c(13, 0, 0, 1, 5),
+  `Últimos 5 anos` = c(5, 0, 0, 0, 5)
 )
 
 DT::datatable(metricas, options = list(dom = 't'), rownames = FALSE)

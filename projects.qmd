@@ -1,34 +1,46 @@
 ---
 title: "Projetos de Pesquisa"
+toc: true
+toc-depth: 2
 ---
 
-## Projetos em Andamento
+Esta página reúne os projetos de pesquisa concluídos sob minha coordenação, com foco em séries temporais e dados SAR.
 
-### Processos G0-ARMA e KB-ARMA aplicados ao índice de vegetação RVI. 
-**Financiador:** CNPq - Pibic
-**Período:** 2025-2026 
-**Papel:** Coordenador
+## Projetos Concluídos
+
+::: {.callout-note title="Processos G0-ARMA e KB-ARMA aplicados ao índice de vegetação RVI"}
+
+| Item | Descrição |
+|---|---|
+| Financiador | CNPq - PIBIC |
+| Período | 2025-2026 |
+| Papel | Coordenador |
 
 **Objetivo:** Desenvolvimento dos processos G0-ARMA e KB-ARMA para predição de índices de vegetação RVI.
 
 **Equipe:**
+
 - Prof. Dr. Pedro M. Almeida-Junior (Coordenador)
+
 - Elizeu Silva Medeiros (Discente)
 
-**Resultados Esperados:**
-- 1 artigo publicado em periódicos internacionais
+:::
 
+::: {.callout-note title="Classificadores para séries temporais com dados SAR"}
 
-### Classificadores para Séries Temporais para dados SAR
-**Financiador:** CNPq - Pibic
-**Período:** 2025-2026 
-**Papel:** Coordenador
+| Item | Descrição |
+|---|---|
+| Financiador | CNPq - PIBIC |
+| Período | 2025-2026 |
+| Papel | Coordenador |
 
 **Objetivo:** Construção de novos classificadores utilizando medidas de divergência para séries temporais.
 
 **Equipe:**
+
 - Prof. Dr. Pedro M. Almeida-Junior (Coordenador)
+
 - Italo Gabriel da Silva (Discente)
 
-**Resultados Esperados:**
-- 1 artigo publicado em periódicos internacionais
+:::
+

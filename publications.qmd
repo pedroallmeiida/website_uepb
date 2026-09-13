@@ -2,7 +2,7 @@
 title: "Publicações"
 ---
 
-## Artigos em Periódicos
+## Artigos em Periódicos estatísticos
 
 $\mathcal{G}_{I}^{0}$ **ARMA process for speckled data**  
 **ALMEIDA-JUNIOR, PEDRO M.**; NASCIMENTO, ABRAÃO D. C.
@@ -29,33 +29,5 @@ Impact Factor: --
 
 [PDF](link) | [DOI](https://doi.org/10.1002/env.2816)
 
-
-
-```{r}
-#| echo: false
-#| fig-cap: "Publicações por ano"
-
-library(ggplot2)
-
-# Dados de exemplo - substitua pelos seus dados reais
-dados_pub <- data.frame(
-  ano = c(2021, 2022, 2023),
-  artigos = c(1, 1, 1),
-  conferencias = c(0, 0, 0)
-)
-
-dados_long <- tidyr::gather(dados_pub, tipo, quantidade, -ano)
-
-ggplot(dados_long, aes(x = ano, y = quantidade, fill = tipo)) +
-  geom_bar(stat = "identity", position = "dodge") +
-  theme_minimal() +
-  labs(
-    title = "Produção Científica por Ano",
-    x = "Ano",
-    y = "Número de Publicações",
-    fill = "Tipo"
-  ) +
-  scale_fill_manual(values = c("#3498db", "#e74c3c"))
-```
 
 ---

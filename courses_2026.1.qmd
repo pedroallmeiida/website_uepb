@@ -1,0 +1,439 @@
+---
+title: "Disciplinas"
+---
+
+## Consultoria Estatística (2026.1 - Noite)
+
+
+::: {.panel-tabset}
+
+## 📊 Informações
+
+**Código:** GRAD.00683| **Créditos:** 4 | **Carga Horária:** 60h  
+
+**Horário:** Seg (18:00-20:00) | Qua (20:00-22:00)
+
+**Sala:** Seg (A-112p - CCT - Bloco A) e Qua (C-205p - CCT - Bloco C)
+
+## 📋 Ementa
+
+
+
+## 📖 Conteúdo
+
+### Unidade 1
+
+
+### Unidade 2
+
+
+## 📚 Bibliografia
+
+
+## 🏆  Avaliação
+
+### Unidade 1 e 2
+
+- Projetos
+
+
+## ✏️ Materiais/Listas
+
+### Notas de aula
+
+- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/1_apresentacao_curso.html)
+- [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/2_introducao_github.html)
+- [Introdução ao Python](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/4_introducao_python.html)
+- [Entendimento de Necessidades](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/3_entendimento_necessidades.html)
+- [Machine Learning](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/Machine_Learning/Apresentacao_ML.html)
+- [MLG](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/MLG/MLG.html)
+- [Deploy modelos API](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/5_deploy_modelos_api.html)
+- [Automatizar deploy CI/CD](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/6_automatizar_deploy_cicd.html)
+
+
+### Templates e tutoriais 
+
+- [Tutorial VS Code](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_vscode.html)
+- [Template Entrevista](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_entrevistas.html)
+- [Template Briefing](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/template_briefing.html)
+- [Tutorial FastAPI](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_fastapi.html)
+- [Tutorial API modelos ML](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_api_ml.html)
+
+### Notebooks Python 
+
+- [Estatística descritiva](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/Estatistica_descritiva.html)
+- [Manulipulaçao de dados](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/manipulacao_dados_pandas.html)
+- [ML (Clasificação) - Sklearn](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/machine_learning/ml_sklearn/classificacao_ml.html)
+- [ML (Regressão) - Sklearn](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/machine_learning/ml_sklearn/regressao_ml.html)
+- [ML - Pycaret](https://raw.githubusercontent.com/pedroallmeiida/consultoria_estatistica/main/notebooks_python/machine_learning/ml_pycaret/pycaret_ml.html)
+
+
+### Projetos/Seminários
+- [Projeto Unidade I](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/projetos_2026/Projetos_ciencia_dados.html)
+:::
+
+
+
+## Séries Temporais (2026.1 - Noite)
+
+
+::: {.panel-tabset}
+
+## 📊 Informações
+
+**Código:** GRAD.00142 | **Créditos:** 4 | **Carga Horária:** 60h  
+
+**Horário:** Seg (20:00-22:00) | Qua (18:00-20:00)
+
+**Sala:** Seg (B-203g - CCT - Bloco A) e Qua (A-116p - CCT - Bloco B)
+
+
+## 📋 Ementa
+
+Conceitos básicos de séries temporais. Decomposição de uma série. Médias móveis. Alisamento exponencial. Processos estacionários. Modelos ARMA e ARIMA. Identificação e estimação, Previsão e Diagnóstico do modelo (metodologia BoxJenkins). Séries sazonais aditivas e multiplicativas.
+
+## 📖 Conteúdo
+
+### Unidade 1
+
+1.  **Conceitos inicias em séries temporais**
+
+    -   Objetivos de séries temporais
+
+    -   Análise descritiva com séries temporais
+
+    -   Tendência
+
+    -   Sazonalidade
+
+    -   Estacionariedade
+
+    -   exemplos práticos de aplicações em séries temporais
+
+2.  **Modelos de Suavização exponencial**
+
+    -   Médias móveis simples
+
+    -   Suavização exponencial simples
+
+    -   Suavização exponencial de Holt
+
+    -   Suavização exponencial sazonal de Holt-Winters
+
+
+### Unidade 2
+
+3.  **Modelos AR, MA, ARMA e ARIMA**
+
+    -   Modelos Autoregressivos (AR)
+
+    -   Modelos de médias móveis (MA)
+
+    -   Modelos Autoregressivos e de médias móveis (ARMA)
+
+    -   Modelos Autoregressivos e de médias móveis integrados(ARIMA)
+
+    -  Modelos Sazonais Autoregressivos e de médias móveis integrados(SARIMA)
+
+    -   Identificação das ordens dos modelos
+
+    -   critério para seleção dos modelos
+
+    -   Previsão e medidas de avaliação
+
+    -   diagnóstico dos modelos
+
+    -   Exemplos práticos no R
+
+4.  **Tópicos adicionais**
+
+    -   Modelos de séries temporais não gaussianas (GARMA)
+
+    -   Modelos ARCH e GARCH
+
+    -   Modelos de séries temporais não paramétricos
+
+    -   Exemplos práticos no R
+
+    -   Introdução ao Python e aplicações
+
+
+
+## 📚 Bibliografia
+
+\[1\] SHUMWAY R. H. STOFFER, D. S. **Time series analysis and its applications with R examples**. 3°ed. New York: Springer, 2010.
+
+\[2\] MORETTIN, P.A. **Análise de Séries Temporais**. S. Paulo, Edgard Blucher, 2006.
+
+\[3\] BROCKWELL, P. & DAVIS, R. **Introduction to Time Series and Forecasting**. Springer, 1996.
+
+\[4\] HAMILTON, J.D. **Time Series Analysis**.
+
+\[5\]  ROB J HYNDMAN AND GEORGE ATHANASOPOULOS.  **Forecasting: Principles and Practice (3rd ed)**. Monash University, Australia. [Versão online](https://otexts.com/fpp3/)
+
+## 🏆  Avaliação
+
+### Unidade 1
+
+- Atividades: Peso 2
+- Seminários: Peso 8
+- Reposição (Prova todo assunto da unidade 1): Peso 10
+
+### Unidade 2
+
+- Atividades: Peso 2
+- Seminários: Peso 8
+- Reposição (Prova todo assunto da unidade 1): Peso 10
+
+
+
+## ✏️ Materiais/Listas
+
+### Notas de aula
+
+**Etapa 1:**
+
+- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/1_apresentacao_curso.html)
+- [Introdução Séries Temporais](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/2_Introducao_Processo_estocastico.html)
+- [Modelos de Decomposição e Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/3-Modelos_Suavizacao.html)
+- [STL](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/8-sazonalidade_complexa.html)
+- [Bootstrap em ST](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/bootstrap.html)
+- [Outliers em ST](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/outliers.html)
+
+**Etapa 2:**
+
+- [Conceitos de Estacionariedade e autocorrelação](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/3_revisao_conceitos_st.html)
+- [Modelos da classe ARMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/4-Modelos_ARMA.html)
+- [Modelos da classe ARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/5-Modelos_ARIMA.html)
+- [Modelos da classe SARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/6-Modelos_SARIMA.html)
+- [Combinação de modelos](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Combinacao_modelos.html)
+- [Modelos da classe ARCH e GARCH](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/7-Modelos_ARCH_GARCH.html)
+
+
+
+### Exemplos práticos
+
+**Unidade I:**
+
+- [Visualização ST no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/visualizacao_time_series.html)
+- [Modelo de Decomposição](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Exercicio_decomposicao.html)
+- [Médias Móveis no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_medias_moveis.html)
+- [Forecast no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_forecast.R)
+
+**Unidade II:**
+
+
+- [Comportamento ACF/PACF no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/comportamento_acf_processos_estocasticos.R)
+- [ARIMA no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/exemplo_ARIMA.html)
+- [SARIMA no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/Exemplo_SARIMA.html)
+
+<!--
+- [ARCH/GARCH no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/Exemplo_GARCH.R)
+-->
+
+### Exemplos teóricos 
+
+
+- [Processo AR(1)](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Processo_ar1.html)
+- [Processo Estacionários](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/processos.html)
+
+
+
+### Listas de exercícios
+
+- [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) 
+- [Lista 2 - Processos ARMA ](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista2_ST.html) 
+
+
+### Projetos/Seminários
+
+- [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) 
+- [Projeto 2 - Modelos de ARIMA e SARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_2.html) 
+
+:::
+
+
+## Séries Temporais (2026.1 - Manhã)
+
+
+::: {.panel-tabset}
+
+## 📊 Informações
+
+**Código:** GRAD.00142 | **Créditos:** 4 | **Carga Horária:** 60h  
+
+**Horário:** Seg (07:00-09:00) | Qui (09:00-11:00)
+
+**Sala:** Seg (C-109p - CCT - Bloco C) e Qui (A-211 - LABEST - CCT - Bloco A)
+
+
+## 📋 Ementa
+
+Conceitos básicos de séries temporais. Decomposição de uma série. Médias móveis. Alisamento exponencial. Processos estacionários. Modelos ARMA e ARIMA. Identificação e estimação, Previsão e Diagnóstico do modelo (metodologia BoxJenkins). Séries sazonais aditivas e multiplicativas.
+
+## 📖 Conteúdo
+
+### Unidade 1
+
+1.  **Conceitos inicias em séries temporais**
+
+    -   Objetivos de séries temporais
+
+    -   Análise descritiva com séries temporais
+
+    -   Tendência
+
+    -   Sazonalidade
+
+    -   Estacionariedade
+
+    -   exemplos práticos de aplicações em séries temporais
+
+2.  **Modelos de Suavização exponencial**
+
+    -   Médias móveis simples
+
+    -   Suavização exponencial simples
+
+    -   Suavização exponencial de Holt
+
+    -   Suavização exponencial sazonal de Holt-Winters
+
+
+### Unidade 2
+
+3.  **Modelos AR, MA, ARMA e ARIMA**
+
+    -   Modelos Autoregressivos (AR)
+
+    -   Modelos de médias móveis (MA)
+
+    -   Modelos Autoregressivos e de médias móveis (ARMA)
+
+    -   Modelos Autoregressivos e de médias móveis integrados(ARIMA)
+
+    -  Modelos Sazonais Autoregressivos e de médias móveis integrados(SARIMA)
+
+    -   Identificação das ordens dos modelos
+
+    -   critério para seleção dos modelos
+
+    -   Previsão e medidas de avaliação
+
+    -   diagnóstico dos modelos
+
+    -   Exemplos práticos no R
+
+4.  **Tópicos adicionais**
+
+    -   Modelos de séries temporais não gaussianas (GARMA)
+
+    -   Modelos ARCH e GARCH
+
+    -   Modelos de séries temporais não paramétricos
+
+    -   Exemplos práticos no R
+
+    -   Introdução ao Python e aplicações
+
+
+
+## 📚 Bibliografia
+
+\[1\] SHUMWAY R. H. STOFFER, D. S. **Time series analysis and its applications with R examples**. 3°ed. New York: Springer, 2010.
+
+\[2\] MORETTIN, P.A. **Análise de Séries Temporais**. S. Paulo, Edgard Blucher, 2006.
+
+\[3\] BROCKWELL, P. & DAVIS, R. **Introduction to Time Series and Forecasting**. Springer, 1996.
+
+\[4\] HAMILTON, J.D. **Time Series Analysis**.
+
+\[5\]  ROB J HYNDMAN AND GEORGE ATHANASOPOULOS.  **Forecasting: Principles and Practice (3rd ed)**. Monash University, Australia. [Versão online](https://otexts.com/fpp3/)
+
+## 🏆  Avaliação
+
+### Unidade 1
+
+- Atividades: Peso 2
+- Seminários: Peso 8
+- Reposição (Prova todo assunto da unidade 1): Peso 10
+
+### Unidade 2
+
+- Atividades: Peso 2
+- Seminários: Peso 8
+- Reposição (Prova todo assunto da unidade 1): Peso 10
+
+
+
+## ✏️ Materiais/Listas
+
+### Notas de aula
+
+**Etapa 1:**
+
+- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/1_apresentacao_curso.html)
+- [Introdução Séries Temporais](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/2_Introducao_Processo_estocastico.html)
+- [Modelos de Decomposição e Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/3-Modelos_Suavizacao.html)
+- [STL](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/8-sazonalidade_complexa.html)
+
+
+
+**Etapa 2:**
+
+
+- [Conceitos de Estacionariedade e autocorrelação](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/3_revisao_conceitos_st.html)
+- [Modelos da classe ARMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/4-Modelos_ARMA.html)
+- [Modelos da classe ARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/5-Modelos_ARIMA.html)
+- [Modelos da classe SARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/6-Modelos_SARIMA.html)
+- [Combinação de modelos](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Combinacao_modelos.html)
+- [Outliers em ST](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/outliers.html)
+- [Bootstrap em ST](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/bootstrap.html)
+
+<!--
+- [Modelos da classe ARCH e GARCH](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa2/7-Modelos_ARCH_GARCH.html)
+-->
+
+
+### Exemplos práticos
+
+#### Unidade I
+
+- [Visualização ST no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/visualizacao_time_series.html)
+- [Modelo de Decomposição](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Exercicio_decomposicao.html)
+- [Médias Móveis no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_medias_moveis.html)
+- [Forecast no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplo_forecast.R)
+
+#### Unidade II
+
+- [Comportamento ACF/PACF no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/comportamento_acf_processos_estocasticos.R)
+- [ARIMA no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/exemplo_ARIMA.html)
+- [SARIMA no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/Exemplo_SARIMA.html)
+
+<!--
+- [ARCH/GARCH no R](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/exemplor_r/Exemplo_GARCH.R)
+-->
+
+
+### Exemplos teóricos 
+
+
+- [Processo AR(1)](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/Processo_ar1.html)
+- [Processo Estacionários](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Exemplos/processos.html)
+
+
+### Listas de exercícios
+
+- [Lista 1 - Visualização](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista1_ST.html) 
+- [Lista 2 - Processos ARMA ](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Listas/Lista2_ST.html) 
+
+### Projetos/Seminários
+
+<!--
+- [Projeto 1 - Modelos de Suavização Exponencial](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_1.html) 
+-->
+
+- [Projeto - Modelos de ARIMA e SARIMA](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Projeto_Pratico_2.html) 
+
+
+:::
