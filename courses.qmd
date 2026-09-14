@@ -72,15 +72,15 @@ para iniciantes. Novatec, 2010.
 
 ### Notas de aula
 
-- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/1_apresentacao_curso.html)
-- [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/2_introducao_github.html)
-- [Introdução ao Python](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/4_introducao_python.html)
+- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/1_apresentacao_curso.html)
 
 
 
-### Templates e tutoriais 
+### Ferramentas
 
+- [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/2_introducao_github.html)
 - [Tutorial VS Code](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_vscode.html)
+- [Introdução ao Python](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/4_introducao_python.html)
 
 
 ### Projetos/Seminários
@@ -121,39 +121,43 @@ Consultas. Controle de Concorrência. Controle de Integridade. Segurança. Utili
 - Conceitos básicos de banco de dados e Sistemas Gerenciadores de Bancos de Dados (SGBD).
 - Arquitetura de sistemas de banco de dados e modelos de dados.
 - Modelo Entidade-Relacionamento e modelagem conceitual.
-Modelo relacional: relações, atributos, tuplas e chaves.
-Projeto de bancos de dados relacionais.
-Dependências funcionais e normalização.
-Integridade e restrições em bancos de dados.
-Linguagem SQL: definição, manipulação e consulta de dados.
-Criação, alteração e manutenção de tabelas.
-Consultas, filtros, agregações e ordenação.
-Junções, subconsultas e views.
-Integração de bancos de dados com ferramentas Estatísticas/Ciência de Dados.
-Projeto prático de modelagem e implementação de um banco de dados relacional utilizando SQL. 
+- Modelo relacional: relações, atributos, tuplas e chaves.
+- Projeto de bancos de dados relacionais.
+- Dependências funcionais e normalização.
+- Integridade e restrições em bancos de dados.
+- Linguagem SQL: definição, manipulação e consulta de dados.
+- Criação, alteração e manutenção de tabelas.
+- Consultas, filtros, agregações e ordenação.
+- Junções, subconsultas e views.
+- Integração de bancos de dados com ferramentas Estatísticas/Ciência de Dados.
+- Projeto prático de modelagem e implementação de um banco de dados relacional utilizando SQL. 
 
 
 ### Unidade 2
 
-Conceitos e características dos bancos de dados não relacionais (NoSQL).
-Modelos NoSQL: chave-valor, documentos, colunas e grafos.
-Bancos de dados orientados a documentos.
-Introdução ao MongoDB e operações de manipulação e consulta.
-Comparação entre bancos relacionais e NoSQL e critérios de escolha.
-Conceitos de armazenamento e processamento distribuído.
-Introdução ao ecossistema Hadoop e armazenamento em clusters.
-Introdução ao Apache Spark e processamento de dados em memória.
-Aplicações de bancos relacionais e NoSQL em Ciência de Dados.
-Introdução à otimização de consultas e uso de índices.
-Conceitos de transações, propriedades ACID e controle de concorrência.
-Noções de segurança e controle de acesso.
-Projeto aplicado de armazenamento, consulta e processamento de dados utilizando banco relacional e/ou
+- Conceitos e características dos bancos de dados não relacionais (NoSQL).
+- Modelos NoSQL: chave-valor, documentos, colunas e grafos.
+- Bancos de dados orientados a documentos.
+- Introdução ao MongoDB e operações de manipulação e consulta.
+- Comparação entre bancos relacionais e NoSQL e critérios de escolha.
+- Conceitos de armazenamento e processamento distribuído.
+- Introdução ao ecossistema Hadoop e armazenamento em clusters.
+- Introdução ao Apache Spark e processamento de dados em memória.
+- Aplicações de bancos relacionais e NoSQL em Ciência de Dados.
+- Introdução à otimização de consultas e uso de índices.
+- Conceitos de transações, propriedades ACID e controle de concorrência.
+- Noções de segurança e controle de acesso.
+- Projeto aplicado de armazenamento, consulta e processamento de dados utilizando banco relacional e/ou
 NoSQL.
 
 
 
 ## 📚 Bibliografia
 
+1. ELMASRI, Ramez; NAVATHE, Shamkant B. *Sistemas de Banco de Dados*. Pearson
+Universidades; 1a edição, 2019.
+
+2. Alice Zhao. *SQL - Guia Prático: um Guia Para o uso de SQL*. Novatec 4a Ed (2023). 
 
 
 ## 🏆  Avaliação
@@ -169,21 +173,18 @@ Provas e seminários
 
 **Unidade 1:**
 
-- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/Series-Temporais/main/Aulas/etapa1/1_apresentacao_curso.html)
+- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/1_apresentacao_curso.html)
+- [Introdução a Banco de Dados](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/2_introducao_banco_de_dados.html)
 
 
+### Ferramentas 
+
+- [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/2_introducao_github.html)
 
 ### Exemplos práticos
 
-**Unidade I:**
-
-
-**Unidade II:**
-
-
 
 ### Listas de exercícios
-
 
 
 ### Projetos/Seminários
