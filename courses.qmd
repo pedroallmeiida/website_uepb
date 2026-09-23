@@ -83,6 +83,9 @@ para iniciantes. Novatec, 2010.
 - [Tutorial VS Code](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_vscode.html)
 - [Introdução ao Python](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/4_introducao_python.html)
 
+### Exercicios 
+- [Operadores de decisão](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/exercicios/exercicios_operadores_condicao.html)
+
 
 ### Projetos/Seminários
 
