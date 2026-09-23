@@ -176,6 +176,7 @@ Provas e seminários
 
 - [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/1_apresentacao_curso.html)
 - [Introdução a Banco de Dados](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/2_introducao_banco_de_dados.html)
+- [Definições DDL e DML](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/definicao_DDL_DML.html)
 
 
 ### Ferramentas 
@@ -183,6 +184,9 @@ Provas e seminários
 - [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/2_introducao_github.html)
 
 ### Exemplos práticos
+
+- [Criando tabelas em um banco de dados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabelas_bd.sql)
+- [Consultando informações de metadados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/info_metadados.sql)
 
 
 ### Listas de exercícios
