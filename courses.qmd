@@ -73,7 +73,8 @@ para iniciantes. Novatec, 2010.
 ### Notas de aula
 
 - [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/1_apresentacao_curso.html)
-
+- [Introdução a algoritmos](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/3_introducao_algoritmos.html)
+- [Introdução a lógica de programação](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/4_introducao_estruturas_de_programacao.html)
 
 
 ### Ferramentas
