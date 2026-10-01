@@ -86,6 +86,8 @@ para iniciantes. Novatec, 2010.
 ### Exercicios 
 - [Operadores de decisão](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/exercicios/exercicios_operadores_condicao.html)
 
+- [Baixar notebook: Operadores de repetição](https://raw.githubusercontent.com/pedroallmeiida/logica_algoritmos_programacao/main/exercicios/exercicios_repeticao.ipynb){download="exercicios_repeticao.ipynb"}
+
 
 ### Projetos/Seminários
 
@@ -180,7 +182,9 @@ Provas e seminários
 - [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/1_apresentacao_curso.html)
 - [Introdução a Banco de Dados](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/2_introducao_banco_de_dados.html)
 - [Definições DDL e DML](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/definicao_DDL_DML.html)
-
+- [Características de Banco de Dados](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/2.1_caracteristicas_banco_dados.html)
+- [Conceitos de Arquitetura](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/3_conceitos_arquitetura.html)
+- [Modelo Relacional](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/4_modelo_relacional.html)
 
 ### Ferramentas 
 
@@ -189,6 +193,7 @@ Provas e seminários
 ### Exemplos práticos
 
 - [Criando tabelas em um banco de dados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabelas_bd.sql)
+- [Alterando tabelas no BD](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/alter_table.sql)
 - [Consultando informações de metadados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/info_metadados.sql)
 
 
