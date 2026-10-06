@@ -190,11 +190,16 @@ Provas e seminários
 
 - [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/2_introducao_github.html)
 
-### Exemplos práticos
+### Exemplos práticos (SQL)
 
 - [Criando tabelas em um banco de dados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabelas_bd.sql)
 - [Alterando tabelas no BD](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/alter_table.sql)
 - [Consultando informações de metadados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/info_metadados.sql)
+
+##### Exemplo BD UNIVERSIDADE
+- [Criando tabela aluno](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_aluno.sql)
+- [Criando tabela disciplina](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_disciplina.sql)
+- [Criando tabela histórico](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_historico.sql)
 
 
 ### Listas de exercícios
