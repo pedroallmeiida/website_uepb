@@ -75,6 +75,8 @@ para iniciantes. Novatec, 2010.
 - [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/1_apresentacao_curso.html)
 - [Introdução a algoritmos](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/3_introducao_algoritmos.html)
 - [Introdução a lógica de programação](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/4_introducao_estruturas_de_programacao.html)
+- [Vetores e Matrizes](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/5.0_vetor_matriz.html)
+- [Estruturas de dados](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/5.1_estruturas_dados.html)
 
 
 ### Ferramentas
@@ -195,6 +197,7 @@ Provas e seminários
 - [Criando tabelas em um banco de dados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabelas_bd.sql)
 - [Alterando tabelas no BD](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/alter_table.sql)
 - [Consultando informações de metadados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/info_metadados.sql)
+- [Controle integridade](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/controle_integridade.sql)
 
 ##### Exemplo BD UNIVERSIDADE
 - [Criando tabela aluno](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_aluno.sql)
