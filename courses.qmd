@@ -4,176 +4,146 @@ title: "Disciplinas"
 
 ## Algoritmos e Lógica de programação (2026.2)
 
-
-::: {.panel-tabset}
-
+::: panel-tabset
 ## 📊 Informações
 
-**Código:** GRAD.15220| **Créditos:** 4 | **Carga Horária:** 60h  
+**Código:** GRAD.15220\| **Créditos:** 4 \| **Carga Horária:** 60h
 
-**Horário:** MANHÃ: Ter (09:00-11:00) | Sex (07:00-09:00) e NOITE: Ter (20:00-22:00) | Qui (18:00-20:00)
+**Horário:** MANHÃ: Ter (09:00-11:00) \| Sex (07:00-09:00) e NOITE: Ter (20:00-22:00) \| Qui (18:00-20:00)
 
 **Sala:** LABEST - CCT - Bloco A
 
 ## 📋 Ementa
 
-Introdução à análise de algoritmos. Tipos Abstratos de Dados. Estruturas de dados
-fundamentais: Arrays, Pilhas, Filas, Listas, Grafos, Hash tables. Algoritmos de busca em memória principal. Gerenciamento de memória dinâmica.
-Aplicações em softwares.
+Introdução à análise de algoritmos. Tipos Abstratos de Dados. Estruturas de dados fundamentais: Arrays, Pilhas, Filas, Listas, Grafos, Hash tables. Algoritmos de busca em memória principal. Gerenciamento de memória dinâmica. Aplicações em softwares.
 
 ## 📖 Conteúdo
 
 ### Unidade 1
 
-- Introdução à lógica e estruturas de programação
-- Introdução à análise de algoritmos.
-- Complexidade computacional e análise de desempenho.
-- Tipos Abstratos de Dados (TAD).
-- Estruturas de dados lineares.
-- Arrays e operações básicas.
-- Listas encadeadas e suas operações.
-- Pilhas e filas.
-- Gerenciamento de memória dinâmica.
-- Implementação e aplicação das estruturas de dados em Python.
+-   Introdução à lógica e estruturas de programação
+-   Introdução à análise de algoritmos.
+-   Complexidade computacional e análise de desempenho.
+-   Tipos Abstratos de Dados (TAD).
+-   Estruturas de dados lineares.
+-   Arrays e operações básicas.
+-   Listas encadeadas e suas operações.
+-   Pilhas e filas.
+-   Gerenciamento de memória dinâmica.
+-   Implementação e aplicação das estruturas de dados em Python.
 
 ### Unidade 2
 
-- Algoritmos de busca em memória principal.
-- Busca sequencial e busca binária.
-- Tabelas hash e funções de espalhamento.
-- Colisões e estratégias de resolução.
-- Introdução às estruturas de dados em grafos.
-- Representação de grafos.
-- Percursos e operações básicas em grafos.
-- Análise da complexidade dos algoritmos de busca e manipulação.
-- Aplicações de estruturas de dados em softwares e problemas de Estatística e Ciência de Dados.
-- Implementação de estruturas e algoritmos utilizando Python.
-
+-   Algoritmos de busca em memória principal.
+-   Busca sequencial e busca binária.
+-   Tabelas hash e funções de espalhamento.
+-   Colisões e estratégias de resolução.
+-   Introdução às estruturas de dados em grafos.
+-   Representação de grafos.
+-   Percursos e operações básicas em grafos.
+-   Análise da complexidade dos algoritmos de busca e manipulação.
+-   Aplicações de estruturas de dados em softwares e problemas de Estatística e Ciência de Dados.
+-   Implementação de estruturas e algoritmos utilizando Python.
 
 ## 📚 Bibliografia
 
-- SZWARCFITER, Jayme Luiz; MARKENZON, Lilian. Estruturas de Dados e seus Algoritmos (3a. edição). Editora
-LTC, 2010.
+-   SZWARCFITER, Jayme Luiz; MARKENZON, Lilian. Estruturas de Dados e seus Algoritmos (3a. edição). Editora LTC, 2010.
 
-- MENEZES, Nilo Ney Coutinho. Introdução à programação com Python: algoritmos e lógica de programação
-para iniciantes. Novatec, 2010.
+-   MENEZES, Nilo Ney Coutinho. Introdução à programação com Python: algoritmos e lógica de programação para iniciantes. Novatec, 2010.
 
-- Souza, M.A.F; Gomes, M.M.; Soares, M.V.; Concilio R. Algoritmos e lógica de programação. Cengage 3 Ed.
+-   Souza, M.A.F; Gomes, M.M.; Soares, M.V.; Concilio R. Algoritmos e lógica de programação. Cengage 3 Ed.
 
-
-## 🏆  Avaliação
+## 🏆 Avaliação
 
 ### Unidade 1 e 2
 
-- Provas e Seminários
-
+-   Provas e Seminários
 
 ## ✏️ Materiais/Listas
 
 ### Notas de aula
 
-- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/1_apresentacao_curso.html)
-- [Introdução a algoritmos](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/3_introducao_algoritmos.html)
-- [Introdução a lógica de programação](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/4_introducao_estruturas_de_programacao.html)
-- [Vetores e Matrizes](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/5.0_vetor_matriz.html)
-- [Estruturas de dados](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/5.1_estruturas_dados.html)
-
+-   [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/1_apresentacao_curso.html)
+-   [Introdução a algoritmos](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/3_introducao_algoritmos.html)
+-   [Introdução a lógica de programação](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/4_introducao_estruturas_de_programacao.html)
+-   [Vetores e Matrizes](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/5.0_vetor_matriz.html)
+-   [Estruturas de dados](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/5.1_estruturas_dados.html)
 
 ### Ferramentas
 
-- [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/2_introducao_github.html)
-- [Tutorial VS Code](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_vscode.html)
-- [Introdução ao Python](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/4_introducao_python.html)
+-   [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/2_introducao_github.html)
+-   [Tutorial VS Code](https://rawcdn.githack.com/pedroallmeiida/consultoria_estatistica/main/aulas/tutorial_vscode.html)
+-   [Introdução ao Python](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/4_introducao_python.html)
 
-### Exercicios 
-- [Operadores de decisão](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/exercicios/exercicios_operadores_condicao.html)
+### Exercicios
 
-- [Baixar notebook: Operadores de repetição](materiais/exercicios_repeticao.ipynb){download="exercicios_repeticao.ipynb"}
+-   [Operadores de decisão](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/exercicios/exercicios_operadores_condicao.html)
 
+-   [Baixar notebook: Operadores de repetição](materiais/exercicios_repeticao.ipynb){download="exercicios_repeticao.ipynb"}
 
 ### Projetos/Seminários
-
-
 :::
-
-
 
 ## Introdução a Banco de Dados (2026.2)
 
-
-::: {.panel-tabset}
-
+::: panel-tabset
 ## 📊 Informações
 
-**Código:** GRAD.15222 | **Créditos:** 4 | **Carga Horária:** 60h  
+**Código:** GRAD.15222 \| **Créditos:** 4 \| **Carga Horária:** 60h
 
-**Horário:** Manhã: Seg (11:00-13:00) | Qui (07:00-09:00) e Noite: Ter (20:00-22:00) | Qui (18:00-20:00)
+**Horário:** Manhã: Seg (11:00-13:00) \| Qui (07:00-09:00) e Noite: Ter (20:00-22:00) \| Qui (18:00-20:00)
 
 **Sala:** LABEST - CCT - Bloco A
 
-
 ## 📋 Ementa
 
-Conceitos Básicos: Arquitetura de um Sistema de Banco de Dados, Modelos de Dados, Linguagens
-de Definição e Manipulação de Dados. Modelagem relacional de Dados. Projeto de Banco de Dados
-Relacional. Dependência Funcional e Normalização. Manipulação de dados com SGBDR. Uso da
-Linguagem SQL. Projeto prático de um banco de dados relacional em SQL. Banco de Dados NãoRelacionais
-(NoSQL). Uso do MongoDB. Armazenamento Distribuído em clusters (Hadoop).
-Processamento em memória com Spark. Controle de Transações. Introdução à Otimização de
-Consultas. Controle de Concorrência. Controle de Integridade. Segurança. Utilização de softwares
+Conceitos Básicos: Arquitetura de um Sistema de Banco de Dados, Modelos de Dados, Linguagens de Definição e Manipulação de Dados. Modelagem relacional de Dados. Projeto de Banco de Dados Relacional. Dependência Funcional e Normalização. Manipulação de dados com SGBDR. Uso da Linguagem SQL. Projeto prático de um banco de dados relacional em SQL. Banco de Dados NãoRelacionais (NoSQL). Uso do MongoDB. Armazenamento Distribuído em clusters (Hadoop). Processamento em memória com Spark. Controle de Transações. Introdução à Otimização de Consultas. Controle de Concorrência. Controle de Integridade. Segurança. Utilização de softwares
 
 ## 📖 Conteúdo
 
 ### Unidade 1
 
-- Conceitos básicos de banco de dados e Sistemas Gerenciadores de Bancos de Dados (SGBD).
-- Arquitetura de sistemas de banco de dados e modelos de dados.
-- Modelo Entidade-Relacionamento e modelagem conceitual.
-- Modelo relacional: relações, atributos, tuplas e chaves.
-- Projeto de bancos de dados relacionais.
-- Dependências funcionais e normalização.
-- Integridade e restrições em bancos de dados.
-- Linguagem SQL: definição, manipulação e consulta de dados.
-- Criação, alteração e manutenção de tabelas.
-- Consultas, filtros, agregações e ordenação.
-- Junções, subconsultas e views.
-- Integração de bancos de dados com ferramentas Estatísticas/Ciência de Dados.
-- Projeto prático de modelagem e implementação de um banco de dados relacional utilizando SQL. 
-
+-   Conceitos básicos de banco de dados e Sistemas Gerenciadores de Bancos de Dados (SGBD).
+-   Arquitetura de sistemas de banco de dados e modelos de dados.
+-   Modelo Entidade-Relacionamento e modelagem conceitual.
+-   Modelo relacional: relações, atributos, tuplas e chaves.
+-   Projeto de bancos de dados relacionais.
+-   Dependências funcionais e normalização.
+-   Integridade e restrições em bancos de dados.
+-   Linguagem SQL: definição, manipulação e consulta de dados.
+-   Criação, alteração e manutenção de tabelas.
+-   Consultas, filtros, agregações e ordenação.
+-   Junções, subconsultas e views.
+-   Integração de bancos de dados com ferramentas Estatísticas/Ciência de Dados.
+-   Projeto prático de modelagem e implementação de um banco de dados relacional utilizando SQL.
 
 ### Unidade 2
 
-- Conceitos e características dos bancos de dados não relacionais (NoSQL).
-- Modelos NoSQL: chave-valor, documentos, colunas e grafos.
-- Bancos de dados orientados a documentos.
-- Introdução ao MongoDB e operações de manipulação e consulta.
-- Comparação entre bancos relacionais e NoSQL e critérios de escolha.
-- Conceitos de armazenamento e processamento distribuído.
-- Introdução ao ecossistema Hadoop e armazenamento em clusters.
-- Introdução ao Apache Spark e processamento de dados em memória.
-- Aplicações de bancos relacionais e NoSQL em Ciência de Dados.
-- Introdução à otimização de consultas e uso de índices.
-- Conceitos de transações, propriedades ACID e controle de concorrência.
-- Noções de segurança e controle de acesso.
-- Projeto aplicado de armazenamento, consulta e processamento de dados utilizando banco relacional e/ou
-NoSQL.
-
-
+-   Conceitos e características dos bancos de dados não relacionais (NoSQL).
+-   Modelos NoSQL: chave-valor, documentos, colunas e grafos.
+-   Bancos de dados orientados a documentos.
+-   Introdução ao MongoDB e operações de manipulação e consulta.
+-   Comparação entre bancos relacionais e NoSQL e critérios de escolha.
+-   Conceitos de armazenamento e processamento distribuído.
+-   Introdução ao ecossistema Hadoop e armazenamento em clusters.
+-   Introdução ao Apache Spark e processamento de dados em memória.
+-   Aplicações de bancos relacionais e NoSQL em Ciência de Dados.
+-   Introdução à otimização de consultas e uso de índices.
+-   Conceitos de transações, propriedades ACID e controle de concorrência.
+-   Noções de segurança e controle de acesso.
+-   Projeto aplicado de armazenamento, consulta e processamento de dados utilizando banco relacional e/ou NoSQL.
 
 ## 📚 Bibliografia
 
-1. ELMASRI, Ramez; NAVATHE, Shamkant B. *Sistemas de Banco de Dados*. Pearson
-Universidades; 1a edição, 2019.
+1.  ELMASRI, Ramez; NAVATHE, Shamkant B. *Sistemas de Banco de Dados*. Pearson Universidades; 1a edição, 2019.
 
-2. Alice Zhao. *SQL - Guia Prático: um Guia Para o uso de SQL*. Novatec 4a Ed (2023). 
+2.  Alice Zhao. *SQL - Guia Prático: um Guia Para o uso de SQL*. Novatec 4a Ed (2023).
 
-
-## 🏆  Avaliação
+## 🏆 Avaliação
 
 ### Unidades 1 e 2
 
-Provas e seminários 
-
+Provas e seminários
 
 ## ✏️ Materiais/Listas
 
@@ -181,36 +151,34 @@ Provas e seminários
 
 **Unidade 1:**
 
-- [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/1_apresentacao_curso.html)
-- [Introdução a Banco de Dados](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/2_introducao_banco_de_dados.html)
-- [Definições DDL e DML](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/definicao_DDL_DML.html)
-- [Características de Banco de Dados](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/2.1_caracteristicas_banco_dados.html)
-- [Conceitos de Arquitetura](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/3_conceitos_arquitetura.html)
-- [Modelo Relacional](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/4_modelo_relacional.html)
+-   [Apresentação do curso](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/1_apresentacao_curso.html)
+-   [Introdução a Banco de Dados](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/2_introducao_banco_de_dados.html)
+-   [Definições DDL e DML](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/definicao_DDL_DML.html)
+-   [Características de Banco de Dados](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/2.1_caracteristicas_banco_dados.html)
+-   [Conceitos de Arquitetura](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/3_conceitos_arquitetura.html)
+-   [Modelo Relacional](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/4_modelo_relacional.html)
+-   [Comandos Básicos SQL](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/comandos_basicos_SQL.html)
 
-### Ferramentas 
+### Ferramentas
 
-- [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/2_introducao_github.html)
+-   [Introdução ao Github](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/2_introducao_github.html)
 
 ### Exemplos práticos (SQL)
 
-- [Criando tabelas em um banco de dados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabelas_bd.sql)
-- [Alterando tabelas no BD](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/alter_table.sql)
-- [Consultando informações de metadados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/info_metadados.sql)
-- [Controle integridade](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/controle_integridade.sql)
+-   [Criando tabelas em um banco de dados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabelas_bd.sql)
+-   [Alterando tabelas no BD](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/alter_table.sql)
+-   [Consultando informações de metadados](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/info_metadados.sql)
+-   [Controle integridade](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/controle_integridade.sql)
 
 ##### Exemplo BD UNIVERSIDADE
-- [Criando tabela aluno](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_aluno.sql)
-- [Criando tabela disciplina](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_disciplina.sql)
-- [Criando tabela histórico](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_historico.sql)
 
+-   [Criando tabela aluno](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_aluno.sql)
+-   [Criando tabela disciplina](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_disciplina.sql)
+-   [Criando tabela histórico](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_historico.sql)
 
 ### Listas de exercícios
 
-
 ### Projetos/Seminários
 
-- [Projeto 1](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/projeto_pratico_banco_de_dados.html)
-
-
+-   [Projeto 1](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/projeto_pratico_banco_de_dados.html)
 :::
