@@ -443,6 +443,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li><a href="https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/3_conceitos_arquitetura.html">Conceitos de Arquitetura</a></li>
 <li><a href="https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/4_modelo_relacional.html">Modelo Relacional</a></li>
 <li><a href="https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/comandos_basicos_SQL.html">Comandos Básicos SQL</a></li>
+<li><a href="https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/comandos_funcoes_usuais.html">Comandos cálculos e funções SQL</a></li>
+<li><a href="https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/comandos_agregacao.html">Comandos Agregação no SQL</a></li>
 </ul>
 </section>
 <section id="ferramentas-1" class="level3">
@@ -1251,30 +1253,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <span id="cb1-158"><a href="#cb1-158" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Conceitos de Arquitetura</span><span class="co">](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/3_conceitos_arquitetura.html)</span></span>
 <span id="cb1-159"><a href="#cb1-159" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Modelo Relacional</span><span class="co">](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/4_modelo_relacional.html)</span></span>
 <span id="cb1-160"><a href="#cb1-160" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Comandos Básicos SQL</span><span class="co">](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/comandos_basicos_SQL.html)</span></span>
-<span id="cb1-161"><a href="#cb1-161" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-162"><a href="#cb1-162" aria-hidden="true" tabindex="-1"></a><span class="fu">### Ferramentas</span></span>
+<span id="cb1-161"><a href="#cb1-161" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Comandos cálculos e funções SQL</span><span class="co">](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/comandos_funcoes_usuais.html)</span></span>
+<span id="cb1-162"><a href="#cb1-162" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Comandos Agregação no SQL</span><span class="co">](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/comandos_agregacao.html)</span></span>
 <span id="cb1-163"><a href="#cb1-163" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-164"><a href="#cb1-164" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Introdução ao Github</span><span class="co">](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/2_introducao_github.html)</span></span>
+<span id="cb1-164"><a href="#cb1-164" aria-hidden="true" tabindex="-1"></a><span class="fu">### Ferramentas</span></span>
 <span id="cb1-165"><a href="#cb1-165" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-166"><a href="#cb1-166" aria-hidden="true" tabindex="-1"></a><span class="fu">### Exemplos práticos (SQL)</span></span>
+<span id="cb1-166"><a href="#cb1-166" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Introdução ao Github</span><span class="co">](https://rawcdn.githack.com/pedroallmeiida/logica_algoritmos_programacao/main/aulas/2_introducao_github.html)</span></span>
 <span id="cb1-167"><a href="#cb1-167" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-168"><a href="#cb1-168" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Criando tabelas em um banco de dados</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabelas_bd.sql)</span></span>
-<span id="cb1-169"><a href="#cb1-169" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Alterando tabelas no BD</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/alter_table.sql)</span></span>
-<span id="cb1-170"><a href="#cb1-170" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Consultando informações de metadados</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/info_metadados.sql)</span></span>
-<span id="cb1-171"><a href="#cb1-171" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Controle integridade</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/controle_integridade.sql)</span></span>
-<span id="cb1-172"><a href="#cb1-172" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-173"><a href="#cb1-173" aria-hidden="true" tabindex="-1"></a><span class="fu">##### Exemplo BD UNIVERSIDADE</span></span>
+<span id="cb1-168"><a href="#cb1-168" aria-hidden="true" tabindex="-1"></a><span class="fu">### Exemplos práticos (SQL)</span></span>
+<span id="cb1-169"><a href="#cb1-169" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-170"><a href="#cb1-170" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Criando tabelas em um banco de dados</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabelas_bd.sql)</span></span>
+<span id="cb1-171"><a href="#cb1-171" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Alterando tabelas no BD</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/alter_table.sql)</span></span>
+<span id="cb1-172"><a href="#cb1-172" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Consultando informações de metadados</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/info_metadados.sql)</span></span>
+<span id="cb1-173"><a href="#cb1-173" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Controle integridade</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/controle_integridade.sql)</span></span>
 <span id="cb1-174"><a href="#cb1-174" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-175"><a href="#cb1-175" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Criando tabela aluno</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_aluno.sql)</span></span>
-<span id="cb1-176"><a href="#cb1-176" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Criando tabela disciplina</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_disciplina.sql)</span></span>
-<span id="cb1-177"><a href="#cb1-177" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Criando tabela histórico</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_historico.sql)</span></span>
-<span id="cb1-178"><a href="#cb1-178" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-179"><a href="#cb1-179" aria-hidden="true" tabindex="-1"></a><span class="fu">### Listas de exercícios</span></span>
+<span id="cb1-175"><a href="#cb1-175" aria-hidden="true" tabindex="-1"></a><span class="fu">##### Exemplo BD UNIVERSIDADE</span></span>
+<span id="cb1-176"><a href="#cb1-176" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-177"><a href="#cb1-177" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Criando tabela aluno</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_aluno.sql)</span></span>
+<span id="cb1-178"><a href="#cb1-178" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Criando tabela disciplina</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_disciplina.sql)</span></span>
+<span id="cb1-179"><a href="#cb1-179" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Criando tabela histórico</span><span class="co">](https://raw.githubusercontent.com/pedroallmeiida/introducao_banco_dados/main/exemplos_praticos/criando_tabela_historico.sql)</span></span>
 <span id="cb1-180"><a href="#cb1-180" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-181"><a href="#cb1-181" aria-hidden="true" tabindex="-1"></a><span class="fu">### Projetos/Seminários</span></span>
+<span id="cb1-181"><a href="#cb1-181" aria-hidden="true" tabindex="-1"></a><span class="fu">### Listas de exercícios</span></span>
 <span id="cb1-182"><a href="#cb1-182" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-183"><a href="#cb1-183" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Projeto 1</span><span class="co">](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/projeto_pratico_banco_de_dados.html)</span></span>
-<span id="cb1-184"><a href="#cb1-184" aria-hidden="true" tabindex="-1"></a>:::</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<span id="cb1-183"><a href="#cb1-183" aria-hidden="true" tabindex="-1"></a><span class="fu">### Projetos/Seminários</span></span>
+<span id="cb1-184"><a href="#cb1-184" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-185"><a href="#cb1-185" aria-hidden="true" tabindex="-1"></a><span class="ss">-   </span><span class="co">[</span><span class="ot">Projeto 1</span><span class="co">](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/projeto_pratico_banco_de_dados.html)</span></span>
+<span id="cb1-186"><a href="#cb1-186" aria-hidden="true" tabindex="-1"></a>:::</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
 

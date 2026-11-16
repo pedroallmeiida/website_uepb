@@ -158,6 +158,8 @@ Provas e seminários
 -   [Conceitos de Arquitetura](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/3_conceitos_arquitetura.html)
 -   [Modelo Relacional](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/4_modelo_relacional.html)
 -   [Comandos Básicos SQL](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/comandos_basicos_SQL.html)
+-   [Comandos cálculos e funções SQL](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/comandos_funcoes_usuais.html)
+-   [Comandos Agregação no SQL](https://rawcdn.githack.com/pedroallmeiida/introducao_banco_dados/main/aulas/comandos_agregacao.html)
 
 ### Ferramentas
 
