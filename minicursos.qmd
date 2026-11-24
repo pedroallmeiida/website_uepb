@@ -1,0 +1,21 @@
+---
+title: "Minicursos"
+toc: true
+toc-depth: 2
+---
+
+## II SEMANA DE EDUCAÇÃO, CIÊNCIAS E TECNOLOGIA DO CCT
+
+A II Semana de Educação, Ciência e Tecnologia do CCT (SECT-CCT) foi realizada nos dias 24, 25 e 26 de novembro de 2026, na Universidade Estadual da Paraíba (UEPB), Câmpus I, em Campina Grande – PB. [Link do evento](https://www.even3.com.br/ii-semana-de-educacao-ciencias-e-tecnologia-do-cct-798617/).
+
+### Slide da Apresentação
+
+-   [Banco de Dados para Estatística e Ciência de Dados — Do SQL à Análise de Dados](https://rawcdn.githack.com/pedroallmeiida/minicursos/main/minicurso_cct/Apresentação_SQL.html)
+
+### Prática SQL
+
+-   [Prática com os principais comandos do SQL](https://rawcdn.githack.com/pedroallmeiida/minicursos/main/minicurso_cct/pratica_sql.sql)
+
+### Prática no R
+
+-   [Integração com R](https://rawcdn.githack.com/pedroallmeiida/minicursos/main/minicurso_cct/integracao_sqlite_no_r.R)

@@ -21,6 +21,8 @@ website:
         file: courses.qmd
       - text: "CV"
         file: cv.qmd
+      - text: "Minicursos"
+        file: minicursos.qmd
       - text: "Contato"
         file: contact.qmd
     right:
